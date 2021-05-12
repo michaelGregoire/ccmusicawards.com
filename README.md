@@ -1,6 +1,6 @@
 # ccmusicawards.com
 
-A simple YAML driven / React based static site generator. Each yaml file will convert to an html file.
+A simple YAML/React based static site generator. Each YAML file in the `content` directory will convert to an html file.
 
 **Please read this document thoroughly before committing/pushing any changes**
 
