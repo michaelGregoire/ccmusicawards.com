@@ -12,6 +12,11 @@ const Layout = ({ app, page, styles }) => {
     <html>
       <head>
         <title>{page.meta.title}</title>
+        <meta
+          name="viewport"
+          content="width=device-width, initial-scale=1"
+        ></meta>
+        <meta name="description" content={page.meta.description}></meta>
         <link
           href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,400;1,700&display=swap"
           rel="stylesheet"
