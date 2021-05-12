@@ -3,15 +3,15 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "compile": "babel src --out-dir compiled",
+    "compile": "babel src --out-dir ./compiled",
     "compile:dev": "babel -w src --out-dir compiled",
     "generate": "node ./compiled/generate.js",
     "generate:dev": "NODE_ENV=development nodemon -e js,scss,yaml --watch ./src --watch ./compiled --watch ./content ./compiled/generate.js",
-    "bundle": "rimraf ./dist && parcel build build/*.html",
+    "bundle": "rimraf ./dist && parcel build ./build/*.html",
     "bundle:dev": "parcel watch build/*.html",
     "serve": "live-server dist",
     "dev": "concurrently 'npm:compile:dev' 'npm:generate:dev' 'npm:bundle:dev' 'npm:serve'",
-    "build": "concurrently 'npm:compile' 'npm:generate' 'npm:bundle'",
+    "build": "npm run compile && npm run generate && npm run bundle",
     "release": "standard-version",
     "validate": "npm run compile && node ./compiled/validate.js",
     "precommit-msg": "echo 'Pre-commit checks...' && exit 0"
