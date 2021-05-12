@@ -8,7 +8,7 @@ A simple YAML driven / React based static site generator. Each yaml file will co
 - Git (https://git-scm.com)
 - Node: Make sure you’ve installed the version of node indicated in the .nvmrc. You’re better off installing **nvm** (https://github.com/nvm-sh/nvm), so you can easily switch to the specific version of node needed and this project doesn’t lock you into the version needed for it. Once you’ve installed it, you’re ready to follow the instructions below.*
 
-_*This assumes you’re familiar with and comfortable using the command-line._
+_*This assumes you’re familiar with and comfortable using the command-line. If you’re not, then let someone who is complete the required work._
 ## Building / Development
 ### Development
 
@@ -22,7 +22,7 @@ $ npm ci
 $ npm run dev
 ```
 
-End dev mode by typing `control + c` (Mac) `ctrl + c` PC.
+End dev mode by typing **`control + c`** _(Mac)_ /  **`ctrl + c`** _(PC)_.
 
 ### To build for production after you’ve made yaml changes
 
@@ -36,6 +36,12 @@ $ npm ci
 $ npm run build
 ```
 
+Once you’ve got a production build, you can serve the site locally using the `serve` script:
+
+```
+$ npm run serve
+```
+
 ## YAML Structure
 
 Each page’s YAML file requires a few key pieces which we’ll cover below. However, please read the following quick overview of what YAML is:
@@ -44,7 +50,7 @@ https://dev.to/paulasantamaria/introduction-to-yaml-125f
 
 The following is the minimum needed for a new chart page:
 
-```
+``` yaml
 ---
 meta:
   title: 2020 CC Community Music Awards
@@ -104,12 +110,12 @@ Examples:
 - YouTube: https://www.youtube.com/embed/2hS566J69WA
 - Vimeo: https://player.vimeo.com/video/253094088
 
-## Commits/Versioning
+## Git
 
+Don’t work directly on master. Always create a new branch from master for any work.
+### Commits
 Follow the [Conventional Commits Specification](https://www.conventionalcommits.org/en/v1.0.0). 
-
-### Examples
-
+#### Examples
 Adding a new content yaml file would be something like:
 ```
 feat: Some add new yaml file commit message
@@ -124,7 +130,5 @@ Updating something that isn’t necessarily a bug fix or a feature would require
 ```
 update: Some commit message
 ```
-
-
-
-
+### Pre-Commit validation
+A validation script is run on the YAML before you can complete your commit. Once you’ve successfully committed your work, push your branch up to the repo and open a PR for approval.
