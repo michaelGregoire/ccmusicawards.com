@@ -1,0 +1,256 @@
+---
+meta:
+  title: 2018 CC Community Music Awards
+  heading: 2018 Nominees & Winners
+  description: The first annual CC Community Music Awards
+  image: ccmusicawards-fb-share-2018.png
+  type: archive
+content:
+  categories:
+    - name: Album of the Year
+      nominees:
+        - artist: Luck & Doc
+          title: Live at the Wake
+          url: https://blocsonic.com/releases/bsog0069
+          winner: true
+    - name: Track of the Year
+      nominees:
+        - artist: Silicon Transmitter
+          title: don’t creep me out
+          url: http://freemusicarchive.org/music/Silicon_Transmitter/Layers_1860/dont_creep_me_out
+          winner: true
+    - name: Best Hip-Hop Album
+      nominees:
+        - artist: Timezone LaFontaine
+          title: The Road Goes On Forever/Heavier Than Ever
+          url: https://blocsonic.com/releases/bsmx0159
+          winner: true
+        - artist: Luck & Doc
+          title: Live At The Wake
+          url: https://blocsonic.com/releases/bsog0069
+        - artist: Dephlow
+          title: Most Definite
+          url: https://dephlow.bandcamp.com/album/most-definite-new-bonus-track
+        - artist: $trafe
+          title: Yolo Forever
+          url: https://starf.bandcamp.com/album/yolo-forever
+        - artist: Cutside
+          title: Empire EP
+          url: https://blocsonic.com/releases/bsmx0170
+    - name: Best Hip-Hop Track
+      nominees:
+        - artist: Luck & Doc
+          title: For The Gods
+          url: https://blocsonic.com/releases/track/bsog0069-disc-1-luck-amp-doc-for-the-gods
+          type: track
+          winner: true
+        - artist: Badluck
+          title: Take Back Culture
+          url: https://blocsonic.com/releases/track/bsog0066-disc-1-badluck-take-back-culture
+          type: track
+        - artist: Mikal Angeles
+          title: Monster
+          url: http://mikalangeles.com/track/monster
+          type: track
+        - artist: Headsnack
+          title: Alternative Facts (Featuring Regenerated Headpiece)
+          url: https://blocsonic.com/releases/track/bsmx0161-disc-1-headsnack-alternative-facts-featuring-regenerated-headpiece
+          type: track
+        - artist: Mos Emvy
+          title: Hands Held High
+          url: https://blocsonic.com/releases/track/bs450037-disc-1-mos-emvy-hands-held-high
+          type: track
+    - name: Best Folk Album
+      nominees:
+        - artist: David Rovics
+          title: Punk Baroque
+          url: https://davidrovics.bandcamp.com/album/punk-baroque
+          winner: true
+        - artist: Great Circles
+          title: Live at 2018 Golden Festival
+          url: http://freemusicarchive.org/music/Great_Circles/Live_at_2018_Golden_Festival_1748/
+        - artist: Rally Root
+          title: Radicle EP
+          url: https://rallyroot.bandcamp.com/album/radicle-ep
+        - artist: Cistem Failure
+          title: Resilience
+          url: https://cistemfailure.bandcamp.com/album/resilience
+        - artist: No Peddlers
+          title: Corn Smugglers
+          url: http://freemusicarchive.org/music/No_Peddlers/Corn_Smugglers
+    - name: Best Folk Track
+      nominees:
+        - artist: Jack Tickner
+          title: Ode to Dogs
+          url: https://jacktickner.bandcamp.com/track/ode-to-dogs
+          type: track
+          winner: true
+        - artist: Wild Hands
+          title: Oh Pioneer
+          url: https://wildhands.bandcamp.com/track/oh-pioneer
+          type: track
+        - artist: Rally Root
+          title: Yes I Do
+          url: https://rallyroot.bandcamp.com/track/yes-i-do
+          type: track
+        - artist: No Small Order
+          title: Hysterical
+          url: http://freemusicarchive.org/music/Small_Tall_Order/Easily/Small_Tall_Order_-_Easily_-_03_Hysterical
+          type: track
+        - artist: David Rovics
+          title: Text Messages of the Apocalypse
+          url: https://davidrovics.bandcamp.com/track/text-messages-of-the-apocalypse
+          type: track
+    - name: Best Experimental Album
+      nominees:
+        - artist: Isabel Nogueira
+          title: Hybrid
+          url: http://www.panyrosasdiscos.net/pyr216-isabel-nogueira-hybrid/
+          winner: true
+        - artist: Dave Keifer
+          title: Howdy Persephone Again
+          url: https://freemusicarchive.org/music/Dave_Keifer/Howdy_Persephone_Again/
+        - artist: Gilman Mom
+          title: Manifest Destiny
+          url: http://freemusicarchive.org/music/Gilman_Mom/Manifest_Destiny
+        - artist: DR
+          title: Zuversicht
+          url: http://freemusicarchive.org/music/DR/Zuversicht
+        - artist: Dolby, Fialkeiwicz, Jovet
+          title: L’Hermite
+          url: http://freemusicarchive.org/music/Dolby_-_Fialkiewicz_-_Jovet/LHermite
+    - name: Best Experimental Track
+      nominees:
+        - artist: Dave Keifer
+          title: A Garden for L
+          url: http://freemusicarchive.org/music/Dave_Keifer/Howdy_Persephone_Again/A_Garden_for_L_
+          type: track
+          winner: true
+        - artist: Silicon Transmitter
+          title: don’t creep me out
+          url: http://freemusicarchive.org/music/Silicon_Transmitter/Layers_1860/dont_creep_me_out
+          type: track
+        - artist: DR
+          title: Two Different Moods in One Piece
+          url: http://freemusicarchive.org/music/DR/Zuversicht/1_-_Two_Different_Moods_In_One_Piece
+          type: track
+        - artist: Gilman Mom
+          title: Fool’s Gold
+          url: http://freemusicarchive.org/music/Gilman_Mom/Manifest_Destiny/Gilman_Mom_-_Manifest_Destiny_-_06_Fools_Gold_1719
+          type: track
+        - artist: Xenojam
+          title: Towards Death
+          url: http://freemusicarchive.org/music/Xenojam/Beyond_the_Unconscious/Xenojam_05_Towards_Death
+          type: track
+    - name: Best Jazz Album
+      nominees:
+        - artist: Romain Baret
+          title: Naissance de l’horizon
+          url: https://labelpinceoreilles.bandcamp.com/album/naissance-de-lhorizon-3
+          winner: true
+        - artist: Benjamin Barg
+          title: Conservation
+          url: https://benbarg.bandcamp.com/album/conservation
+        - artist: Third Coast Percussion
+          title: "Philippe Manoury: The Book of Keyboards"
+          url: https://newfocusrecordings.bandcamp.com/album/third-coast-percussion-philippe-manoury-the-book-of-keyboards
+        - artist: Daize Mae
+          title: Last Jazz in Paris
+          url: http://freemusicarchive.org/music/Dazie_Mae/Last_Jazz_in_Paris/
+        - artist: Gilman Mom
+          title: Manifest Destiny
+          url: https://freemusicarchive.org/music/Gilman_Mom/Manifest_Destiny/
+    - name: Best Jazz Track
+      nominees:
+        - artist: Romain Baret
+          title: Naissance de l’horizon
+          url: https://labelpinceoreilles.bandcamp.com/track/naissance-de-lhorizon
+          type: track
+          winner: true
+        - artist: Loyalty Freak Music
+          title: Monarch of the Street
+          url: http://freemusicarchive.org/music/Loyalty_Freak_Music/TO_CHILL_AND_STAY_AWAKE/Loyalty_Freak_Music_-_TO_CHILL_AND_STAY_AWAKE_-_07_Monarch_of_the_street
+          type: track
+        - artist: Hussalonia
+          title: Reflection Rag
+          url: https://hussalonia.bandcamp.com/track/reflection-rag
+          type: track
+        - artist: Split Phase
+          title: Galaxies
+          url: http://freemusicarchive.org/music/Split_Phase/Compendium/split_phase-38-galaxies
+          type: track
+        - artist: Underscore Orkestra
+          title: Hot Sauce and Cheese Cake
+          url: https://theunderscoreorkestra.bandcamp.com/track/hot-sauce-and-cheese-cake
+          type: track
+    - name: Best Rock Album
+      nominees:
+        - artist: Heifervescent
+          title: Excuses for the Common Man
+          url: http://heifervescent.com/music/excuses-for-the-common-man/
+          winner: true
+        - artist: Vitne
+          title: Jupiter
+          url: https://vitne.bandcamp.com/album/jupiter
+        - artist: Lorenzo’s Music
+          title: Cool Ships and Heat Exchangers
+          url: https://blocsonic.com/releases/bsmx0158
+        - artist: King Gizzard and The Lizard Wizard
+          title: Polygonwanaland
+          url: https://kinggizzard.bandcamp.com/album/polygondwanaland
+        - artist: Vin de Mia Trix
+          title: Palimpsests
+          url: https://vindemiatrix.bandcamp.com/album/palimpsests
+    - name: Best Rock Track
+      nominees:
+        - artist: Lorenzo’s Music
+          title: I Never Wanted to Say
+          url: https://blocsonic.com/releases/track/bsmx0158-disc-1-lorenzos-music-i-never-wanted-to-say
+          type: track
+          winner: true
+        - artist: BIT
+          title: Hello World
+          url: https://blocsonic.com/releases/track/bsmx0157-disc-1-bit-hello-world
+          type: track
+        - artist: Rosy Finch
+          title: Hyde Formula
+          url: https://rosyfinch.bandcamp.com/track/hyde-formula
+          type: track
+        - artist: Bralitz
+          title: Dinner Plans
+          url: https://blocsonic.com/releases/track/bsmx0155-disc-1-bralitz-dinner-plans
+          type: track
+        - artist: Anti-Everything
+          title: Harbour Tides
+          url: https://antieverything.bandcamp.com/track/harbour-tides
+          type: track
+    - name: Best Music Video
+      nominees:
+        - artist: Mercury and the Architects
+          title: Machine
+          url: https://www.mercuryandthearchitects.com
+          embedUrl: https://www.youtube.com/embed/WHWNM8rwXDg
+          type: video
+          winner: true
+        - artist: Sro
+          title: Vision Music
+          url: https://srosocial.com
+          embedUrl: https://www.youtube.com/embed/eu3ET8gVX-E
+          type: video
+        - artist: Borrtex
+          title: Our Home
+          url: https://borrtex.bandcamp.com/
+          embedUrl: https://www.youtube.com/embed/JaCdTlTimTo
+          type: video
+        - artist: Lozo Musico
+          title: Ex Criminal
+          url: https://lozomusico.bandcamp.com
+          embedUrl: https://www.youtube.com/embed/2hS566J69WA
+          type: video
+        - artist: Nonima
+          title: Hybridv2
+          url: https://soundcloud.com/crazy-language/nomina-hybridv2
+          embedUrl: https://player.vimeo.com/video/253094088
+          type: video
+        
+

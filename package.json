@@ -1,15 +1,52 @@
 {
-  "name": "site",
-  "version": "0.1.0",
+  "name": "ccmusicawards.com",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
+    "compile": "babel src --out-dir compiled",
+    "compile:dev": "babel -w src --out-dir compiled",
+    "generate": "node ./compiled/generate.js",
+    "generate:dev": "NODE_ENV=development nodemon -e js,scss,yaml --watch ./src --watch ./compiled --watch ./content ./compiled/generate.js",
+    "bundle": "rimraf ./dist && parcel build build/*.html",
+    "bundle:dev": "parcel watch build/*.html",
+    "serve": "live-server dist",
+    "dev": "concurrently 'npm:compile:dev' 'npm:generate:dev' 'npm:bundle:dev' 'npm:serve'",
+    "build": "concurrently 'npm:compile' 'npm:generate' 'npm:bundle'",
+    "release": "standard-version",
+    "validate": "npm run compile && node ./compiled/validate.js",
+    "precommit-msg": "echo 'Pre-commit checks...' && exit 0"
   },
+  "pre-commit": [
+    "precommit-msg",
+    "validate"
+  ],
   "dependencies": {
-    "next": "10.2.0",
+    "@babel/cli": "^7.13.16",
+    "@babel/core": "^7.14.0",
+    "@babel/preset-env": "^7.14.1",
+    "@babel/preset-react": "^7.13.13",
+    "@researchgate/babel-plugin-transform-scss-import-to-string": "^1.0.0",
+    "babel-loader": "^8.2.2",
+    "concurrently": "^6.1.0",
+    "fs-extra": "^10.0.0",
+    "jquery": "^3.6.0",
+    "munge": "^1.0.0",
+    "node-sass": "^5.0.0",
+    "parcel-bundler": "^1.12.5",
+    "path-browserify": "^1.0.1",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "rimraf": "^3.0.2",
+    "styled-jsx": "^3.4.4",
+    "styled-jsx-plugin-postcss": "^4.0.1",
+    "styled-jsx-plugin-sass": "^1.0.0",
+    "yamljs": "^0.3.0"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "nodemon": "^2.0.7",
+    "pre-commit": "^1.2.2",
+    "prettier": "^2.2.1",
+    "standard-version": "^9.3.0"
   }
 }

@@ -1,0 +1,470 @@
+---
+meta:
+  title: 2019 CC Community Music Awards
+  heading: 2019 Nominees & Winners
+  description: The second annual CC Community Music Awards
+  image: ccmusicawards-fb-share-2019.png
+  type: archive
+content:
+  categories:
+    - name: Best Hip-Hop Album
+      nominees:
+        - artist: K.I.R.K.
+          title: 825 Literature
+          url: http://freemusicarchive.org/music/Jay_Kirk/825_Literature/
+          winner: true
+        - artist: Natasha Beller
+          title: Fairytale
+          url: https://www.blocsonic.com/releases/bsog0076
+        - artist: Tha Silent Partner
+          title: The String Cheese Beat Plate
+          url: https://www.blocsonic.com/releases/bsog0077
+        - artist: Moki Mcfly
+          title: Silom
+          url: https://blocsonic.com/releases/bsog0078
+        - artist: aitänna77
+          title: Memory Lane
+          url: https://www.blocsonic.com/releases/bsog0081
+    - name: Best Hip-Hop Track
+      nominees:
+        - artist: K.I.R.K.
+          title: Wonder
+          url: http://freemusicarchive.org/music/Jay_Kirk/825_Literature/wonder_master
+          type: track
+          winner: true
+        - artist: Vincent Augustus
+          title: waste time
+          url: http://freemusicarchive.org/music/Vincent_Augustus/Waste_Time/waste_time
+          type: track
+        - artist: Elephant Funeral
+          title: Good Vibes Only
+          url: http://freemusicarchive.org/music/Caleb_Lemond/Unfinished_Tales/Elephant_Funeral_-_Good_Vibes_Only
+          type: track
+        - artist: Moki Mcfly
+          title: Thai Pods
+          url: https://blocsonic.com/releases/bsog0078
+          type: track
+        - artist: Cheese
+          title: Golden Girls
+          url: https://blocsonic.com/releases/bsog0079
+          type: track
+    - name: Best Folk Album
+      nominees:
+        - artist: Townhouse Woods
+          title: Heart of Winter
+          url: https://townhousewoods.bandcamp.com/album/heart-of-winter
+          winner: true
+        - artist: Derek Clegg
+          title: Borish Songs for L
+          url: http://freemusicarchive.org/music/Derek_Clegg/Borish_Songs_For_L/
+        - artist: Birds of Paradise
+          title: Esto amor
+          url: http://freemusicarchive.org/music/Birds_of_Paradise/lnknljljjnl/
+        - artist: Knit Your Own Scarf
+          title: Agur
+          url: http://freemusicarchive.org/music/Knit_Your_Own_Scarf/Agur/
+        - artist: Tim Woulfe
+          title: A House Is A Holding
+          url: http://freemusicarchive.org/music/Tim_Woulfe/A_House_Is_A_Holding/
+    - name: Best Folk Track
+      nominees:
+        - artist: Derek Clegg
+          title: Last a Day
+          url: http://freemusicarchive.org/music/Derek_Clegg/Borish_Songs_For_L/Derek_Clegg_-_Borish_Songs_For_L_-_02_Last_a_Day
+          type: track
+          winner: true
+        - artist: Wolftune
+          title: I Finally Wrote Another Song
+          url: https://soundcloud.com/wolftune/wrote-another-song
+          type: track
+        - artist: Birds of Paradise
+          title: Drip
+          url: http://freemusicarchive.org/music/Birds_of_Paradise/lnknljljjnl/Drip
+          type: track
+        - artist: Knit Your Own Scarf
+          title: Ajedrez
+          url: http://freemusicarchive.org/music/Knit_Your_Own_Scarf/Agur/Selva_-_Agur_-_04_Ajedrez
+          type: track
+        - artist: Tim Woulfe
+          title: Cyan Sing
+          url: http://freemusicarchive.org/music/Tim_Woulfe/A_House_Is_A_Holding/Tim_Woulfe_-_A_House_Is_A_Holding_-_05_Cyan_Sing
+          type: track
+    - name: Best Experimental Album
+      nominees:
+        - artist: Los Pilotos
+          title: Nurse of Being
+          url: http://freemusicarchive.org/music/los_pilotos/nurse_of_being/
+          winner: true
+        - artist: Dolby, Fialkiewicz, Jovet
+          title: Glyndwr M
+          url: https://freemusicarchive.org/music/Dolby_-_Fialkiewicz_-_Jovet/Glyndwr_M/
+        - artist: Dadala
+          title: The Wind
+          url: http://freemusicarchive.org/music/dadala/the_wind/
+        - artist: Simon Mathewson
+          title: Controlled Noise Experiments
+          url: https://freemusicarchive.org/music/Simon_Mathewson/Controlled_Noise_Experiments/
+        - artist: AtOm_AnT
+          title: CaNdYmAn
+          url: http://freemusicarchive.org/music/AtOm_AnT/CaNdYmAn/
+    - name: Best Experimental Track
+      nominees:
+        - artist: dadala
+          title: disputed offerings
+          url: http://freemusicarchive.org/music/dadala/the_wind/04_-_dadala_-_the_wind_-_disputed_offerings
+          type: track
+          winner: true
+        - artist: Silent Carrion
+          title: The Harvest
+          url: http://freemusicarchive.org/music/Silent_Carrion/Suprematism_EP_III_Sol/Silent_Carrion_-_Suprematism_EP_III_Sol_-_03_The_Harvest
+          type: track
+        - artist: Los Pilotos
+          title: Winter’s Queen
+          url: http://freemusicarchive.org/music/los_pilotos/nurse_of_being/02_-_los_pilotos_-_nurse_of_being_-_winters_queen
+          type: track
+        - artist: Simon Mathewson
+          title: Container
+          url: http://freemusicarchive.org/music/Simon_Mathewson/Unsound/Container
+          type: track
+        - artist: Filmy Ghost
+          title: Melatonin III
+          url: http://freemusicarchive.org/music/Filmy_Ghost/Melatonin/03_-_Melatonin_III
+          type: track
+    - name: Best Ambient Album
+      nominees:
+        - artist: Rod Hamilton and Tiffany Seal
+          title: Enchanted Forest
+          url: https://freemusicarchive.org/music/Rod_Hamilton_and_Tiffany_Seal/Enchanted_Forest/
+          winner: true
+        - artist: Mycologue
+          title: Anatta
+          url: http://freemusicarchive.org/music/Mycologue/Anatta/
+        - artist: Silicon Transmitter
+          title: Sector
+          url: https://freemusicarchive.org/music/Silicon_Transmitter/Sector/
+        - artist: Gilman Mom
+          title: Revisionist History
+          url: https://gilmanmom.bandcamp.com/album/revisionist-history
+        - artist: Bing Satellites
+          title: Soothing Images 48-59
+          url: https://bingsatellites.bandcamp.com/album/soothing-images-48-59
+    - name: Best Ambient Track
+      nominees:
+        - artist: Gilman Mom
+          title: Cosmic Evening
+          url: https://gilmanmom.bandcamp.com/track/cosmic-evening
+          type: track
+          winner: true
+        - artist: Mycologue
+          title: Anatman
+          url: http://freemusicarchive.org/music/Mycologue/Anatta/Mycologue_-_Anatta_-_02_Anatman
+          type: track
+        - artist: King Imagine
+          title: Gentle Away
+          url: http://cota303.net/release/next-nowhere-exe/14
+          type: track
+        - artist: Bing Satellites
+          title: Soothing Image 51
+          url: https://bingsatellites.bandcamp.com/track/soothing-image-51
+          type: track
+        - artist: Into Living Void
+          title: Kitchen Ants
+          url: https://space14.bandcamp.com/track/kitchen-ants-2
+          type: track
+    - name: Best Jazz Album
+      nominees:
+        - artist: N Dropkick
+          title: Is Jazz A Gateway Drug?
+          url: https://ndropkick.bandcamp.com/album/is-jazz-a-gateway-drug
+          winner: true
+        - artist: Lobo Loco
+          title: Over Midnight
+          url: http://freemusicarchive.org/music/Lobo_Loco/Over_Midnight/
+        - artist: Dee Yan-Key
+          title: Years and Years Ago
+          url: http://freemusicarchive.org/music/Dee_Yan-Key/years_and_years_ago/
+        - artist: Nin Martoize
+          title: Digittoe Air
+          url: http://freemusicarchive.org/music/Nin_Martoize/Digittoe_Air/
+        - artist: Pierce Murphy
+          title: This Isn’t Magic It Is Just Music
+          url: http://freemusicarchive.org/music/Pierce_Murphy/This_Isnt_Magic_It_Is_Just_Music/
+    - name: Best Jazz Track
+      nominees:
+        - artist: Nin Martoize
+          title: un
+          url: http://freemusicarchive.org/music/Nin_Martoize/Digittoe_Air/2_un
+          type: track
+          winner: true
+        - artist: KieLoKaz
+          title: IAF Trolley
+          url: http://freemusicarchive.org/music/KieLoKaz/Walker_Traffic/IAF_Trolley_Kielokaz_ID_154
+          type: track
+        - artist: Lobo Loco
+          title: Lazy Partners
+          url: http://freemusicarchive.org/music/Lobo_Loco/Over_Midnight/Lazy_Partners_ID_1004
+          type: track
+        - artist: Pierce Murphy
+          title: Will You Whisper
+          url: http://freemusicarchive.org/music/Pierce_Murphy/This_Isnt_Magic_It_Is_Just_Music/Pierce_Murphy_-_This_Isnt_Magic_It_Is_Just_Music-_A_Demo_-_11_Will_You_Whisper
+          type: track
+        - artist: Dee Yan-Key
+          title: The Flow
+          url: http://freemusicarchive.org/music/Dee_Yan-Key/years_and_years_ago/03--Dee_Yan-Key-The_Flow
+          type: track
+    - name: Best Rock Album
+      nominees:
+        - artist: Have the Moskovik
+          title: Papier Vinyle
+          url: https://havethemoskovik.bandcamp.com/album/papier-vinyle
+          winner: true
+        - artist: Berstgefahr
+          title: Berstgefahr
+          url: http://freemusicarchive.org/music/Berstgefahr/Berstgefahr/
+        - artist: Deep Space Destructors
+          title: Visions from the Void
+          url: https://deepspacedestructors.bandcamp.com/album/visions-from-the-void
+        - artist: Nicholas Burgess
+          title: Xmas Gold
+          url: https://nicholasburgess.bandcamp.com/album/xmas-gold
+        - artist: Yellow Cop
+          title: Tragedy Memories
+          url: http://freemusicarchive.org/music/Yellow_Cop/Tragedy_memories/
+    - name: Best Rock Track
+      nominees:
+        - artist: Yellow Cop
+          title: Last XI
+          url: http://freemusicarchive.org/music/Yellow_Cop/Tragedy_memories/Yellow_Cop_-_Tragedy_Memories_-_01_Last_Xl
+          type: track
+          winner: true
+        - artist: The Inventors
+          title: Melon
+          url: http://freemusicarchive.org/music/The_Inventors/Counting_backwards/The_Inventors_-_Counting_Backwards_-_04_Melon
+          type: track
+        - artist: The Wrong Sister
+          title: Looking at the sun
+          url: http://freemusicarchive.org/music/The_Wrong_Sister/Taking_care_to_be_nice/The_Wrong_Sister_-_Taking_care_to_be_nice_-_07_Looking_at_the_sun
+          type: track
+        - artist: The Grammar Club
+          title: Froggy Refresh
+          url: https://thegrammarclub.bandcamp.com/track/froggy-refresh
+          type: track
+        - artist: Inaequalis
+          title: Crash
+          url: http://freemusicarchive.org/music/Inaequalis/Bte_Noire/Crash_1223
+          type: track
+    - name: Best Electronic Album
+      nominees:
+        - artist: Noel Griffin
+          title: Sentient Life
+          url: http://freemusicarchive.org/music/Noel_Griffin/Sentient_Life/
+          winner: true
+        - artist: Bio Unit
+          title: Export
+          url: https://freemusicarchive.org/music/Bio_Unit/Export_1897/
+        - artist: Hatch
+          title: Anachroid
+          url: https://section27.bandcamp.com/album/arcanoid
+        - artist: Uncan
+          title: Third
+          url: http://freemusicarchive.org/music/Uncanny/Third/
+        - artist: CavalloPazzo
+          title: Cruise
+          url: http://freemusicarchive.org/music/CavalloPazzo/Cruise/
+    - name: Best Electronic Track
+      nominees:
+        - artist: Hatch
+          title: Blow Up No Blow Up
+          url: https://section27.bandcamp.com/track/blow-up-no-blow-up
+          type: track
+          winner: true
+        - artist: Predator Technique
+          title: Moonmate
+          url: https://predator-tech.bandcamp.com/track/moonmate
+          type: track
+        - artist: The Weathermonger
+          title: Infinite Mirror
+          url: https://twoismrecords.bandcamp.com/track/infinite-mirror
+          type: track
+        - artist: Uncan
+          title: Kobo Cafe
+          url: http://freemusicarchive.org/music/Uncanny/Third/Kobo_Cafe
+          type: track
+        - artist: Bio Unit
+          title: Descent
+          url: http://freemusicarchive.org/music/Bio_Unit/Export_1897/Descent_1685
+          type: track
+    - name: Best Metal Album
+      nominees:
+        - artist: Muldjord
+          title: A Cascade of Eventualities
+          url: https://muldjord.bandcamp.com/album/a-cascade-of-eventualities
+          winner: true
+        - artist: Maeth
+          title: Whaling Village
+          url: http://freemusicarchive.org/music/Maeth/Whaling_Village/
+        - artist: Cryosyncopy
+          title: Night Gate
+          url: https://cryosyncopy.bandcamp.com/album/night-gate
+        - artist: Arkham
+          title: Sons of Death
+          url: https://arkhamelbolson.bandcamp.com/album/sons-of-death
+        - artist: Croc Noir
+          title: Mort
+          url: https://crocnoir.bandcamp.com/album/mort
+    - name: Best Metal Track
+      nominees:
+        - artist: Muldjord
+          title: Eternal Dreamless Sleep
+          url: https://muldjord.bandcamp.com/track/eternal-dreamless-sleep-3
+          type: track
+          winner: true
+        - artist: Arkham
+          title: Asylum
+          url: https://arkhamelbolson.bandcamp.com/track/asylum
+          type: track
+        - artist: Avenger Kills
+          title: The Savior
+          url: https://www.jamendo.com/track/1547691/the-savior
+          type: track
+        - artist: Cryosyncopy
+          title: Cult of the Dragon
+          url: http://freemusicarchive.org/music/Cryosyncopy/Night_Gate/Cryosyncopy_-_Night_Gate_-_03_-_Cult_of_the_Dragon
+          type: track
+        - artist: Maeth
+          title: Everything is an orchid
+          url: http://freemusicarchive.org/music/Maeth/Whaling_Village/Maeth_-_Whaling_Village_-_01_Everything_is_an_orchid
+          type: track
+    - name: Best Pop Album
+      nominees:
+        - artist: The Gays
+          title: The Agenda
+          url: https://freemusicarchive.org/music/The_Gays/The_Agenda_2192/
+          winner: true
+        - artist: Benjamin Bret
+          title: Black Kracougol
+          url: http://freemusicarchive.org/music/Benjamin_Bret/Black_Kracougol/
+        - artist: A. A. Aalto
+          title: Connections
+          url: http://freemusicarchive.org/music/A_A_Aalto/Connections/
+        - artist: The Grammar Club
+          title: Live Slow. Die Whenever.
+          url: https://thegrammarclub.bandcamp.com/album/live-slow-die-whenever
+        - artist: The Polish Ambassador
+          title: Twilight Safari
+          url: http://freemusicarchive.org/music/The_Polish_Ambassador/Twilight_Safari/
+    - name: Best Pop Track
+      nominees:
+        - artist: The Polish Ambassador
+          title: Interdimensional Panic Club
+          url: http://freemusicarchive.org/music/The_Polish_Ambassador/Twilight_Safari/Interdimensional_Panic_Club_
+          type: track
+          winner: true
+        - artist: Phillip Gross
+          title: Rabat
+          url: http://freemusicarchive.org/music/Phillip_Gross/Morocco/Phillip_Gross_Morocco_-_02_-_Rabat
+          type: track
+        - artist: Benjamin Bret
+          title: La Bouteille de Whisky
+          url: http://freemusicarchive.org/music/Benjamin_Bret/Black_Kracougol/02-LABOUTEILLEDEWHISKY-
+          type: track
+        - artist: The Gays
+          title: The Community
+          url: http://freemusicarchive.org/music/The_Gays/The_Agenda_2192/The_Gays_-_The_Agenda_-_02_The_Community
+          type: track
+        - artist: The Grammar Club
+          title: Stronger Than Them All (Stronger Than The Mall)
+          url: https://thegrammarclub.bandcamp.com/track/stronger-than-them-all-stronger-than-the-mall
+          type: track
+    - name: Best Music Video
+      nominees:
+        - artist: Soft Edges ft. Emelie
+          title: The Waves
+          url: https://softedgesofficial.bandcamp.com/
+          embedUrl: https://www.youtube.com/embed/G6pSvd__0q8
+          type: video
+          winner: true
+        - artist: Kowalski Room
+          title: One Night on Capistrano Beach
+          url: https://kowalskiroom.bandcamp.com
+          embedUrl: https://www.youtube.com/embed/4M9FUwZusj8
+          type: video
+        - artist: Have the Moskovik
+          title: De mémorie d’homme
+          url: https://havethemoskovik.bandcamp.com/
+          embedUrl: https://www.youtube.com/embed/ESpQx6DtoCo
+          type: video
+        - artist: Sav12
+          title: Pride
+          url: https://www.mixtapemadness.com
+          embedUrl: https://www.youtube.com/embed/HQOX2rGb5a8
+          type: video
+        - artist: Seltzki ft. Hatsune Miku
+          title: Letters
+          url: https://soundcloud.com/seltzki
+          embedUrl: https://www.youtube.com/embed/5dBCugOtfM8
+          type: video
+    - name: Best Album Packaging
+      nominees:
+        - artist: Gilman Mom
+          title: Revisionist History Memory Box
+          url: https://gilmanmom.bandcamp.com/merch/revisionist-history-memory-box
+          winner: true
+        - artist: Hadokowa
+          title: Loading… (Reissue)
+          url: http://freemusicarchive.org/member/Hadokowa/blog/Hadokowa_re-issues_EP_as_a_USB_cassette
+        - artist: Kowalski Room
+          title: Postcards from the Future
+          url: https://kowalskiroom.bandcamp.com/album/postcards-from-the-future
+        - artist: Theta Wave Orchestra
+          title: Follow the Sun
+          url: https://theta-wave-orchestra.bandcamp.com/album/follow-the-sun
+        - artist: Nicholas Burgess
+          title: Deluxe Xmas Boxx
+          url: https://nicholasburgess.bandcamp.com/album/xmas-gold
+    - name: Remix Album of the Year
+      nominees:
+        - artist: ccMixter
+          title: Amplifiers
+          url: https://ccmixter.bandcamp.com/album/amplifiers
+          winner: true
+    - name: Remix Track of the Year
+      nominees:
+        - artist: Zep Hurme (feat spinning merkaba)
+          title: Adaptation
+          url: http://beta.ccmixter.org/files/zep_hurme/57625
+          winner: true
+    - name: Remix Instrumental of the Year
+      nominees:
+        - artist: Loveshadow (feat Apoxode)
+          title: Apoxode Resin (Bringing Me Down)
+          url: http://beta.ccmixter.org/files/Loveshadow/58632
+          winner: true
+    - name: Remix Experimental Track of the Year
+      nominees:
+        - artist: onlymeith (feat airtone)
+          title: Light
+          url: http://beta.ccmixter.org/files/onlymeith/58693
+          winner: true
+    - name: Remix Acappella of the Year
+      nominees:
+        - artist: Leza Boyland
+          title: Sunshine
+          url: http://beta.ccmixter.org/files/Leza2unes/58580
+          winner: true
+    - name: Remix Spoken Word of the Year
+      nominees:
+        - artist: Panu Moon
+          title: The New Americana
+          url: http://beta.ccmixter.org/files/panumoon/57815
+          winner: true
+    - name: Remix Stems/Sample of the Year
+      nominees:
+        - artist: Javolenus
+          title: Regeneration
+          url: http://beta.ccmixter.org/files/Javolenus/58022
+          winner: true
+
+
+
+        

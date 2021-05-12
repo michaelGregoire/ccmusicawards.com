@@ -1,0 +1,277 @@
+$awardBlue: #1189c3;
+$awardAqua: #11bfb9;
+
+html,
+body {
+  min-height: 100vh;
+}
+
+body {
+  
+  background: $awardBlue;
+  background: linear-gradient(16deg, $awardAqua 0%, $awardBlue 50%, $awardAqua 100%);
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+
+  &.previous {
+    $colorOne: lighten(desaturate($awardBlue, 40%), 5%);
+    $colorTwo: lighten(desaturate($awardAqua, 40%), 5%);
+    
+    background: $colorOne;
+    background: linear-gradient(16deg, $colorTwo 0%, $colorOne 50%, $colorTwo 100%);
+  }
+
+  &.archive {
+    $colorOne: lighten(desaturate($awardBlue, 70%), 13%);
+    $colorTwo: lighten(desaturate($awardAqua, 70%), 13%);
+
+    background: $colorOne;
+    background: linear-gradient(16deg, $colorTwo 0%, $colorOne 50%, $colorTwo 100%);
+  }
+}
+
+a {
+  color: #fff;
+}
+
+h1 {
+  margin: 6rem 0 0 0;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-style: oblique;
+  text-transform: uppercase;
+  text-align: center;
+  margin: 1rem 0 0 0;
+}
+
+h3 {
+  font-size: 2rem;
+  font-style: oblique;
+  text-transform: uppercase;
+  text-align: center;
+  margin: 5rem 0 1.25rem 0;
+}
+
+h4 {
+  font-size: 1.35rem;
+  font-style: oblique;
+  text-transform: uppercase;
+  text-align: center;
+  margin: 2rem 0 1.5rem 0;
+}
+
+h5 {
+  font-size: 1.25rem;
+  font-style: oblique;
+  margin-bottom: 0;
+}
+
+hr {
+  border: none;
+  height: 3px;
+  background-color: #fff;
+  transform: skew(-14deg, 0);
+  margin: 1.25rem 0 1.5rem 0;
+}
+
+ul {
+  margin-top: 0;
+  padding: 0;
+}
+
+ul li {
+  list-style: none;
+}
+
+ol {
+  margin: 0;
+  text-align: left;
+  padding-left: 1.25rem;
+}
+
+div#page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+div#center {
+  width: 100%;
+  text-align: center;
+  padding: 0 1rem;
+}
+
+.menu {
+  margin-bottom: 3rem;
+}
+
+.left {
+  text-align: left;
+}
+
+.max {
+  margin: 0 auto 1rem auto;
+  max-width: 48rem;
+}
+
+@media (min-width: 600px) {
+  div#center {
+    width: 75%;
+    margin: 0 auto;
+    padding: 0;
+  }
+}
+
+@media (min-width: 1200px) {
+  div#center {
+    width: 60%;
+  }
+}
+
+.contacts {
+  display: inline-block;
+  margin: 0 0 4rem 0;
+
+  li {
+    display: block;
+    margin: 0 0 0.5rem 0;
+
+    &.social {
+      font-size: 2rem;
+      display: inline-block;
+      margin: 0 0.5rem 1rem 0;
+    }
+
+    a {
+      text-decoration: none;
+
+      &:hover,
+      &:focus {
+        text-decoration: underline;
+      }
+    }
+  }
+}
+
+.nominees-winners {
+  margin-bottom: 3rem;
+
+  li {
+    margin-bottom: 0.75rem;
+
+    strong {
+      &::after {
+        content: ' •';
+      }
+
+      &.regional::after {
+        content: '';
+      }
+    }
+
+    strong.regional {
+      &::after {
+        content: '';
+      }
+    }
+  }
+
+  .download {
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    margin-left: 0.5rem;
+  }
+
+  .winner {
+    display: block;
+    max-width: 10rem;
+    margin: 2rem auto 1rem auto;
+    position: relative;
+    padding: 1rem 1rem;
+    text-transform: uppercase;
+
+    &::before {
+      content: '';
+      border: 6px solid #fff;
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      transform: skew(-13deg, 0);
+    }
+  }
+
+  .winner-name {
+    font-size: 1.35rem;
+    line-height: 1.6;
+
+    strong {
+      display: block;
+      text-align: center;
+
+      &::after {
+        content: '';
+      }
+    }
+  }
+}
+
+.footer {
+  font-size: 0.75rem;
+  margin: 3rem 0 3rem 0;
+  text-align: center;
+}
+
+.inline-list {
+  margin: 0;
+  padding: 0;
+
+  li {
+    display: inline-block;
+    margin-right: .5rem;
+
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+}
+
+.video-wrapper {
+  margin: 1rem auto 2rem;
+  max-width: 37.5rem;
+}
+
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px; height: 0; overflow: hidden;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.regional-winners {
+  .winner-name strong {
+    margin-top: 2rem;
+  }
+
+  hr {
+    margin-top: 2.5rem;
+  }
+}
+
+.nominees-winners .alt-winner-name strong {
+  display: inline-block;
+}

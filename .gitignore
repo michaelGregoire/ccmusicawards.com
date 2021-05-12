@@ -13,11 +13,16 @@
 /out/
 
 # production
+/compiled
 /build
+/json
+/dist
 
 # misc
 .DS_Store
 *.pem
+/.cache/
+/.vscode/
 
 # debug
 npm-debug.log*

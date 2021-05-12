@@ -1,0 +1,10 @@
+{
+  "presets": [
+    "@babel/preset-react",
+    ["@babel/env", { "targets": { "node": 14 } }]
+  ],
+  "plugins": [
+    "@researchgate/babel-plugin-transform-scss-import-to-string",
+    ["styled-jsx/babel", { "optimizeForSpeed": true }]
+  ]
+}
