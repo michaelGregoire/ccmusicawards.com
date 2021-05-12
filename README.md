@@ -112,7 +112,7 @@ Examples:
 
 ## Git
 
-Don’t work directly on master. Always create a new branch from master for any work.
+Don’t work directly on `main`. Always create a new branch from `main` for any work.
 ### Commits
 Follow the [Conventional Commits Specification](https://www.conventionalcommits.org/en/v1.0.0). 
 #### Examples
