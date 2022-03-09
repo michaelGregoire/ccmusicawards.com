@@ -7,18 +7,28 @@ body {
 }
 
 body {
-  
   background: $awardBlue;
-  background: linear-gradient(16deg, $awardAqua 0%, $awardBlue 50%, $awardAqua 100%);
+  background: linear-gradient(
+    16deg,
+    $awardAqua 0%,
+    $awardBlue 50%,
+    $awardAqua 100%
+  );
   color: #fff;
+  font-size: 16px;
   font-family: 'Montserrat', sans-serif;
 
   &.previous {
     $colorOne: lighten(desaturate($awardBlue, 40%), 5%);
     $colorTwo: lighten(desaturate($awardAqua, 40%), 5%);
-    
+
     background: $colorOne;
-    background: linear-gradient(16deg, $colorTwo 0%, $colorOne 50%, $colorTwo 100%);
+    background: linear-gradient(
+      16deg,
+      $colorTwo 0%,
+      $colorOne 50%,
+      $colorTwo 100%
+    );
   }
 
   &.archive {
@@ -26,7 +36,12 @@ body {
     $colorTwo: lighten(desaturate($awardAqua, 70%), 13%);
 
     background: $colorOne;
-    background: linear-gradient(16deg, $colorTwo 0%, $colorOne 50%, $colorTwo 100%);
+    background: linear-gradient(
+      16deg,
+      $colorTwo 0%,
+      $colorOne 50%,
+      $colorTwo 100%
+    );
   }
 }
 
@@ -229,7 +244,7 @@ div#center {
 
   li {
     display: inline-block;
-    margin-right: .5rem;
+    margin-right: 0.5rem;
 
     &:last-child {
       margin-right: 0;
@@ -249,7 +264,9 @@ div#center {
 .video-container {
   position: relative;
   padding-bottom: 56.25%;
-  padding-top: 30px; height: 0; overflow: hidden;
+  padding-top: 30px;
+  height: 0;
+  overflow: hidden;
 }
 
 .video-container iframe,
@@ -274,4 +291,42 @@ div#center {
 
 .nominees-winners .alt-winner-name strong {
   display: inline-block;
+}
+
+.judge {
+  border: 10px solid #fff;
+  width: 75%;
+  max-width: 20rem;
+}
+
+.ukraine {
+  text-align: center;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-style: italic;
+  padding: 2rem;
+  font-size: 2rem;
+  text-shadow: #000000 1px 0 10px;
+  background: rgb(255, 213, 0);
+  background: -moz-linear-gradient(
+    0deg,
+    rgba(255, 213, 0, 1) 0%,
+    rgba(255, 213, 0, 1) 50%,
+    rgba(0, 91, 187, 1) 50%,
+    rgba(0, 91, 187, 1) 100%
+  );
+  background: -webkit-linear-gradient(
+    0deg,
+    rgba(255, 213, 0, 1) 0%,
+    rgba(255, 213, 0, 1) 50%,
+    rgba(0, 91, 187, 1) 50%,
+    rgba(0, 91, 187, 1) 100%
+  );
+  background: linear-gradient(
+    0deg,
+    rgba(255, 213, 0, 1) 0%,
+    rgba(255, 213, 0, 1) 50%,
+    rgba(0, 91, 187, 1) 50%,
+    rgba(0, 91, 187, 1) 100%
+  );
 }

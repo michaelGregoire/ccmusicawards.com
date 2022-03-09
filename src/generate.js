@@ -22,6 +22,7 @@ function render(file, page, yamlFile) {
 
   const app = ReactDOMServer.renderToString(
     <App
+      meta={page.meta}
       heading={page.meta.heading}
       categories={page.content.categories}
       body={page.content.body}
