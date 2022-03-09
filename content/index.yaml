@@ -6,6 +6,19 @@ meta:
   ukraine: true
 content:
   categories:
+    - name: Album of the Year
+      nominees:
+        - artist: Cloudwarmer
+          title: Does the Weather Isolate You?
+          url: https://cloudwarmer.bandcamp.com/album/does-the-weather-isolate-you
+          winner: true
+    - name: Track of the Year
+      nominees:
+        - artist: Lorenzo’s Music
+          title: I Can Only Miss You
+          type: track
+          url: https://lorenzosmusic.bandcamp.com/track/i-can-only-miss-you
+          winner: true
     - name: Best Pop Album
       nominees:
         - artist: Rata Negra
