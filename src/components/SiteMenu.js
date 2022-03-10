@@ -10,6 +10,9 @@ const SiteMenu = () => {
         <a href="/about.html">About Us</a>
       </li>
       <li>
+        <a href="/judges.html">Judges</a>
+      </li>
+      <li>
         <a href="/archive.html">Archive</a>
       </li>
     </ul>
