@@ -3,6 +3,7 @@ meta:
   title: 2021 CC Community Music Awards
   heading: 2021 Nominees & Winners
   description: The fourth annual CC Community Music Awards
+  type: previous
 content:
   categories:
     - name: Best Electronic Album
