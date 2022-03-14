@@ -3,646 +3,701 @@ meta:
   title: 2022 CC Community Music Awards
   heading: 2022 Nominees & Winners
   description: Annual CC Community Music Awards
+  description: The fifth annual CC Community Music Awards
+  ukraine: true
 content:
   categories:
-    - name: Best Electronic Album
+    - name: Album of the Year
       nominees:
-        - artist: Spiedkiks
-          title: A Pompous Whimsy Peak
-          url: https://blocsonic.com/releases/spiedkiks/a-pompous-whimsy-peak
+        - artist: Cloudwarmer
+          title: Does the Weather Isolate You?
+          url: https://cloudwarmer.bandcamp.com/album/does-the-weather-isolate-you
           winner: true
-        - artist: A23P
-          title: Dynamic Evolution
-          url: https://archive.org/details/a23pdynamicevolution
-        - artist: SADFAY
-          title: SADFAY 2020
-          url: https://sadfay.bandcamp.com/album/sadfay-2020
-          ariaLabel: Official release page
-        - artist: Viktor Van River
-          title: Asking Questions
-          url: https://blocsonic.com/releases/viktor-van-river/asking-questions
-        - artist: Black Dresses
-          title: Peaceful as Hell
-          url: https://blackdresses.bandcamp.com/album/peaceful-as-hell
-    - name: Best Electronic Track
+    - name: Track of the Year
       nominees:
-        - artist: Rabbit Girl
-          title: Personal Eschatology
-          url: https://rabbitgirl.bandcamp.com/track/personal-eschatology
+        - artist: Lorenzo’s Music
+          title: I Can Only Miss You
           type: track
+          url: https://lorenzosmusic.bandcamp.com/track/i-can-only-miss-you
           winner: true
-        - artist: Mute City
-          title: Glitchless, Deathless
-          url: https://mute-city.bandcamp.com/track/glitchless-deathless
-          type: track
-        - artist: Xejjah Orseth
-          title: Heroin Laundromat
-          url: https://xejjahorseth.bandcamp.com/album/502
-          type: track
-        - artist: Fane
-          title: Dark Mountain
-          url: https://fane33.bandcamp.com/track/dark-mountain
-          type: track
-        - artist: Eartheogen
-          title: Down the Well (Disttractive Remix)
-          url: https://wdgmusic.bandcamp.com/album/hedonistic-music-for-hedonistic-people
-          type: track
-    - name: Best Experimental Album
-      nominees:
-        - artist: Potato Hate Explosion
-          title: Rainbow Mermaid Deathcult
-          url: https://potatohateexplosion.bandcamp.com/album/rainbow-mermaid-deathcult
-          winner: true
-        - artist: Jim White and Marisa Andereson
-          title: The Quickening
-          url: https://marisaanderson.bandcamp.com/album/the-quickening
-        - artist: Jacqueline Leclair
-          title: Music for English Horn Alone
-          url: https://newfocusrecordings.bandcamp.com/album/music-for-english-horn-alone
-        - artist: The OO-Ray
-          title: Quiescent
-          url: https://ooray.bandcamp.com/album/quiescent
-        - artist: Headsnack & Primo Sol
-          title: Effected
-          url: https://blocsonic.com/releases/headsnack-primo-sol/effected
-    - name: Best Experimental Track
-      nominees:
-        - artist: Circus Marcus
-          title: Hotel Terminus
-          url: https://freemusicarchive.org/music/CIRCUSMARCUS/live-at-home-for-the-creative-commons-global-summit-2020/hotel-terminus
-          type: track
-          winner: true
-        - artist: N0THANKY0U
-          title: With Open Arms, In Disbelief
-          url: https://n0thanky0u.bandcamp.com/track/with-open-arms-in-disbelief
-          type: track
-        - artist: ChXnSxCh
-          title: "Desiccant Silicagel [DANGEROUS: DO NOT EAT]"
-          url: https://thejjc.bandcamp.com/track/desiccant-silicagel-dangerous-do-not-eat
-          type: track
-        - artist: The OO-Ray
-          title: An Obscured Moon
-          url: https://ooray.bandcamp.com/track/an-obscured-moon
-          type: track
-        - artist: Hearth Structure Quartet
-          title: confident [Live 2019]
-          url: https://vacancyniagara.bandcamp.com/track/confident
-          type: track
-    - name: Best Folk Album
-      nominees:
-        - artist: David Rovics
-          title: Say Their Names
-          url: https://davidrovics.bandcamp.com/album/say-their-names
-          winner: true
-        - artist: pablosanchez
-          title: Hipnosia
-          url: https://pablosanchezmusica.bandcamp.com/album/hipnosia
-        - artist: Townhouse Woods
-          title: Other Plans
-          url: https://townhousewoods.bandcamp.com/album/other-plans
-        - artist: Ilienses
-          title: Civitates Barbariae
-          url: https://ilienses.bandcamp.com/album/civitates-barbariae
-        - artist: Bachelors of Music
-          title: The Lost FREE Tapes
-          url: https://thebachelorsofmusic.bandcamp.com/album/the-l-o-s-t-free-tapes
-    - name: Best Folk Track
-      nominees:
-        - artist: Townhouse Woods
-          title: Kings of the North
-          url: https://townhousewoods.bandcamp.com/track/kings-of-the-north
-          type: track
-          winner: true
-        - artist: Clifton Hicks
-          title: Hard Times on Beaver Dam Road
-          url: https://cliftonhicks.bandcamp.com/track/hard-times-on-beaver-dam-road-1888-luscomb-banjo
-          type: track
-        - artist: David Rovics
-          title: As I Watch Minneapolis Burn
-          url: https://davidrovics.bandcamp.com/track/as-i-watch-minneapolis-burn
-          type: track
-        - artist: pablosanchez
-          title: Kaleshi
-          url: https://pablosanchezmusica.bandcamp.com/track/kaleshi
-          type: track
-        - artist: Ilienses
-          title: Lumerras
-          url: https://ilienses.bandcamp.com/track/lumerras
-          type: track
-    - name: Best Hip-Hop Album
-      nominees:
-        - artist: Cheese N Pot-C
-          title: Muldoonsday Device
-          url: https://blocsonic.com/releases/cheese-n-pot-c/muldoonsday-device
-          winner: true
-        - artist: VoidDweller
-          title: "▒"
-          url: https://voiddweller000.bandcamp.com/album/--2
-        - artist: BADLUCK
-          title: Pharaohs & Gods II
-          url: https://blocsonic.com/releases/badluck/pharaohs-gods-ii
-        - artist: GLD8TRZ
-          title: Bloody Ruinz
-          url: https://blocsonic.com/releases/gld8trz/bloody-ruinz
-        - artist: e-fluent
-          title: WHITE DEVIL
-          url: https://e-fluent.bandcamp.com/album/white-devil
-    - name: Best Hip-Hop Track
-      nominees:
-        - artist: CM & Tha Silent Partner
-          title: Problems
-          url: https://blocsonic.com/releases/cm-tha-silent-partner/problems
-          type: track
-          winner: true
-        - artist: P.U.C.K.
-          title: Hip-Hop Topics
-          url: https://blocsonic.com/releases/track/bs450052-disc-1-puck-hip-hop-topics
-          type: track
-        - artist: VoidDweller
-          title: super humman
-          url: https://voiddweller000.bandcamp.com/track/super-humman
-          type: track
-        - artist: Mos Emvy
-          title: Whisper
-          url: https://blocsonic.com/releases/mos-emvy/whisper-featuring-jade-mae
-          type: track
-        - artist: BADLUCK
-          title: At My Senses
-          url: https://blocsonic.com/releases/track/bsog0095-disc-1-badluck-at-my-senses
-          type: track
-    - name: Best Jazz Album
-      nominees:
-        - artist: Bob Reynolds
-          title: Runway
-          url: https://bobreynolds.bandcamp.com/album/runway
-          winner: true
-        - artist: Tell No Lies
-          title: Anasyrma
-          url: https://autrecords.bandcamp.com/album/anasyrma
-        - artist: Jon Hoddinott
-          title: Heart Of Ice
-          url: https://hoddinott.bandcamp.com/album/heart-of-ice
-        - artist: Endangered Quartet
-          title: Heart
-          url: https://newfocusrecordings.bandcamp.com/album/heart
-        - artist: Patchwork
-          title: Patchwork
-          url: https://newfocusrecordings.bandcamp.com/album/patchwork
-    - name: Best Jazz Track
-      nominees:
-        - artist: Tell No Lies
-          title: Moondays
-          url: https://autrecords.bandcamp.com/track/moondays
-          type: track
-          winner: true
-        - artist: Jon Hoddinott
-          title: Sioux City
-          url: https://hoddinott.bandcamp.com/track/sioux-city-2
-          type: track
-        - artist: Endangered Quartet
-          title: "Johann Sebastian Bach: Chorale BWV 244​/​44"
-          url: https://newfocusrecordings.bandcamp.com/track/johann-sebastian-bach-chorale-bwv-244-44
-          type: track
-        - artist: Bob Reynolds
-          title: Moving Picutres
-          url: https://bobreynolds.bandcamp.com/track/moving-pictures
-          type: track
-        - artist: Marcela Membreno/Pasillo 5
-          title: El Groove de Frida
-          url: https://ccecr.bandcamp.com/track/el-groove-de-frida
-          type: track
     - name: Best Pop Album
       nominees:
-        - artist: Grrrl Gang
-          title: Here to stay!
-          url: https://grrrlgang.bandcamp.com/album/here-to-stay
+        - artist: Rata Negra
+          title: Una Vida Vulgar
+          url: https://lavidaesunmus.bandcamp.com/album/una-vida-vulgar
           winner: true
-        - artist: Danke Sun
-          title: Danke!
-          url: https://blocsonic.com/releases/danke-sun/danke
-        - artist: Wastoid
-          title: Something Good
-          url: http://www.quoteunquoterecords.com/qur107.htm
         - artist: Nicholas Burgess
-          title: Electric Brain Electric Silence
-          url: https://nicholasburgess.bandcamp.com/album/electric-brain-electric-silence
-        - artist: wowflower
-          title: abel’s sketchbook
-          url: https://wowflower.bandcamp.com/album/abels-sketchbook
+          title: The Diamond Door
+          url: https://nicholasburgess.bandcamp.com/album/the-diamond-door
+        - artist: Louis Lingg and The Bombs
+          title: '>…checking system… disruption detected…'
+          url: https://blocsonic.com/releases/louis-lingg-and-the-bombs/checking-system-disruption-detected
+        - artist: Monk Turner
+          title: Emotional Baggage (all four parts)
+          url: https://monkturner.bandcamp.com/album/emotional-baggage-part-1
+        - artist: Home Front
+          title: Think of the Lie
+          url: https://lavidaesunmus.bandcamp.com/album/think-of-the-lie
     - name: Best Pop Track
       nominees:
-        - artist: Sam Opoku
-          title: Yellow
-          url: https://www.jamendo.com/track/1784196/yellow
+        - artist: Louis Lingg and The Bombs
+          title: 'No Joke (Pop Remix by Patrón)'
           type: track
+          url: https://blocsonic.com/releases/track/bsmx0208-disc-1-louis-lingg-and-the-bombs-no-joke-pop-remix-by-patron
           winner: true
-        - artist: Grrrl Gang
-          title: Dream Grrrl
-          url: https://grrrlgang.bandcamp.com/track/dream-grrrl-single-vers
+        - artist: Derek Clegg
+          title: 'I Won’t Let You Down'
           type: track
-        - artist: Renae
-          title: Waves (Cancer)
-          url: https://www.jamendo.com/track/1772398/waves-cancer
+          url: https://www.jamendo.com/album/262044/i-won-t-let-you-down
+        - artist: Ben Lvcas
+          title: Love of My Life
           type: track
-        - artist: Lacheque
-          title: Brain Wizard
-          url: https://bandcamp.lacheque.net/track/brain-wizard-2
+          url: https://www.jamendo.com/track/1876086/love-of-my-life
+        - artist: Bessonn & SA
+          title: You and I
           type: track
-        - artist: Nicholas Burgess
-          title: The Crevasse
-          url: https://nicholasburgess.bandcamp.com/track/the-crevasse
+          url: https://www.jamendo.com/album/455544/you-and-i
+        - artist: Mercury & The Architects
+          title: Love Your Life Away
           type: track
+          url: https://www.jamendo.com/track/1880011/love-your-life-away
+    - name: Best Electronic Album
+      nominees:
+        - artist: Cloudwarmer
+          title: Does the Weather Isolate You?
+          url: https://cloudwarmer.bandcamp.com/album/does-the-weather-isolate-you
+          winner: true
+        - artist: Viktor Van River
+          title: Weapon of Mass Distraction
+          url: https://blocsonic.com/releases/viktor-van-river/weapon-of-mass-distraction
+        - artist: MVMX
+          title: Take Me Down
+          url: https://blocsonic.com/releases/mvmx/take-me-down
+        - artist: Air Credits
+          title: Believe That You're Here
+          url: https://aircredits.bandcamp.com/album/believe-that-youre-here
+        - artist: Reptant
+          title: Return to Planet Xtrapolis
+          url: https://lkrrecords.bandcamp.com/album/return-to-planet-xtrapolis
+    - name: Best Electronic Track
+      nominees:
+        - artist: Alex Franklin
+          title: Game Over
+          type: track
+          url: https://blocsonic.com/releases/track/bsog0105-disc-1-alex-franklin-game-over
+          winner: true
+        - artist: Me As In You
+          title: Wanna Right Now
+          type: track
+          url: https://blocsonic.com/releases/track/bsmx0201-disc-1-me-as-in-you-wanna-right-now
+        - artist: No Death
+          title: Knock Koenji
+          type: track
+          url: https://underwater-computing.bandcamp.com/track/knock-koenji
+        - artist: LupoSapien
+          title: Shards
+          type: track
+          url: https://luposapien.bandcamp.com/track/shards-single
+        - artist: Glass Apple Bonzai
+          title: Machines Are Dancing
+          type: track
+          url: https://glassapplebonzai.bandcamp.com/track/machines-are-dancing
+    - name: Best Experimental Album
+      nominees:
+        - artist: Claire Chase, Alex Peh, Susie Ibarra
+          title: 'Susie Ibarra: Talking Gong'
+          url: https://newfocusrecordings.bandcamp.com/album/susie-ibarra-talking-gong
+          winner: true
+        - artist: Ning Yu & David Bird
+          title: Iron Orchid
+          url: https://newfocusrecordings.bandcamp.com/album/iron-orchid
+        - artist: Real Loud
+          title: Real Loud
+          url: https://newfocusrecordings.bandcamp.com/album/real-loud
+        - artist: Senyawa
+          title: Alkisah
+          url: https://senyawa-bam.bandcamp.com/album/alkisah
+        - artist: Wheelchair Sports Camp
+          title: Alice In Wonderland
+          url: https://wheelchairsportscamp.bandcamp.com/album/alice-in-wonderland-original-theatre-soundtrack
+    - name: Best Experimental Track
+      nominees:
+        - artist: Wheelchair Sports Camp
+          title: Tea Time
+          type: track
+          url: https://wheelchairsportscamp.bandcamp.com/track/tea-time
+          winner: true
+        - artist: Claire Chase, Alex Peh, Susie Ibarra
+          title: Sunbird
+          type: track
+          url: https://newfocusrecordings.bandcamp.com/track/sunbird
+        - artist: Dolores Catherino
+          title: sound transformations | polychromatic 56 edo
+          type: track
+          url: https://dolorescatherino.bandcamp.com/track/sound-transformations-polychromatic-56-edo
+        - artist: Jono Terbakar
+          title: kremun
+          type: track
+          url: https://jonoterbakar.bandcamp.com/track/kremun
+        - artist: Senyawa
+          title: Istana
+          type: track
+          url: https://senyawa-bam.bandcamp.com/track/istana
+    - name: Best Folk Album
+      nominees:
+        - artist: Cat Clyde & Jeremie Albino
+          title: Blue, Blue, Blue
+          url: https://catclydeband.bandcamp.com/album/blue-blue-blue
+          winner: true
+        - artist: Freddie Nunez
+          title: Trains of Faith
+          url: https://freddienunez.bandcamp.com/album/trains-of-faith
+        - artist: Clifton Hicks
+          title: Old Leathstocking
+          url: https://cliftonhicks.bandcamp.com/album/old-leatherstocking
+        - artist: Pati na Svete
+          title: Jupiter Carousel
+          url: https://poli5.bandcamp.com/album/jupiter-carousel
+        - artist: David Rovics and Virtual Bird
+          title: It's Been A Year
+          url: https://davidrovics.bandcamp.com/album/its-been-a-year
+    - name: Best Folk Track
+      nominees:
+        - artist: Sunflower Summit
+          title: Snow Ocean (Featuring Passionate Rascal)
+          type: track
+          url: https://sunflowersummit.bandcamp.com/track/snow-ocean-feat-passionate-rascal
+          winner: true
+        - artist: Cat Clyde & Jeremie Albino
+          title: Been Worryin
+          type: track
+          url: https://catclydeband.bandcamp.com/track/been-worryin
+        - artist: David Rovics
+          title: It's Been A Year
+          type: track
+          url: https://davidrovics.bandcamp.com/track/its-been-a-year-2
+        - artist: Freddie Nunez
+          title: No Way We're Gonna Be Blue
+          type: track
+          url: https://freddienunez.bandcamp.com/track/no-way-were-gonna-be-blue-2
+        - artist: Demain Sans Saute
+          title: Au Kim
+          type: track
+          url: https://do-it-youssef.bandcamp.com/track/au-klm
+    - name: Best Hip-Hop Album
+      nominees:
+        - artist: Moki McFly
+          title: Grey
+          url: https://blocsonic.com/releases/moki-mcfly/grey
+          winner: true
+        - artist: dakim
+          title: Regos Chillin
+          url: https://ddustdirect.bandcamp.com/album/regos-chillin
+        - artist: Knxwledge
+          title: Vgm.14
+          url: https://knxwledge.bandcamp.com/album/vgm-14
+        - artist: CM & Tha Silent Partner
+          title: bloc Sonics 2
+          url: https://blocsonic.com/releases/cm-tha-silent-partner/bloc-sonics-2
+        - artist: Timezone Lafontaine
+          title: Beatseekers
+          url: https://blocsonic.com/releases/timezone-lafontaine/beatseekers
+    - name: Best Hip-Hop Track
+      nominees:
+        - artist: Donnie Ozone
+          title: Rock To This
+          type: track
+          url: https://blocsonic.com/releases/donnie-ozone/rock-to-this
+          winner: true
+        - artist: KLSHNKV
+          title: Willow
+          type: track
+          url: https://blocsonic.com/releases/track/bsog0101-disc-1-klshnkv-willow
+        - artist: DarkSunn
+          title: Speak Easy
+          type: track
+          url: https://music.monsterjinx.com/album/roxo-07
+        - artist: CM & Tha Silent Partner
+          title: Crystal Clear
+          type: track
+          url: https://blocsonic.com/releases/track/bsmx0204-disc-1-cm-amp-tha-silent-partner-crystal-clear-uncensored
+        - artist: Nu Kids Off The Block
+          title: NFT One & Too
+          type: track
+          url: https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/106954795647195088180485760148828085164695599510602485212291429018438952026113
+    - name: Best Ambient Album
+      nominees:
+        - artist: Delmak-O
+          title: The Colony
+          url: https://delmak-o.bandcamp.com/album/the-colony
+          winner: true
+        - artist: Bing Satellites
+          title: Longform Ambient Studies 002
+          url: https://bingsatellites.bandcamp.com/album/longform-ambient-studies-002
+        - artist: Chris Zabriskie
+          title: Abandon Babylon
+          url: https://chriszabriskie.bandcamp.com/album/abandon-babylon
+        - artist: sonnov
+          title: Ochogooq
+          url: https://sonnovdrone.bandcamp.com/album/ochogooq
+        - artist: Wings Of An Angel
+          title: Remembrance Is Lost Without Tomorrow
+          url: https://wingsofanangel.bandcamp.com/album/remembrance-is-lost-without-tomorrow
+    - name: Best Ambient Track
+      nominees:
+        - artist: Marie Wilhelmine Anders
+          title: the infinite shining heavens
+          type: track
+          url: https://www.broque.de/label/en/release/mp3-download-en/4808-136-marie-wilhelmine-anders-travels-2
+          winner: true
+        - artist: Chris Zabriskie
+          title: And It Is There, in Those Depths
+          type: track
+          url: https://chriszabriskie.bandcamp.com/track/and-it-is-there-in-those-depths
+        - artist: Delmak-O
+          title: Miasma of Spores
+          type: track
+          url: https://delmak-o.bandcamp.com/track/miasma-of-spores
+        - artist: Francis Gri
+          title: 'Drop070221 – Dull'
+          type: track
+          url: https://krysalisound.bandcamp.com/track/drop070221-dull
+        - artist: Ilienses
+          title: Tzonca
+          type: track
+          url: https://ilienses.bandcamp.com/track/tzonca
+    - name: Best Jazz Album
+      nominees:
+        - artist: Brazzmatazz
+          title: Live at JGG Studio
+          url: https://brazzmatazz.bandcamp.com/album/live-at-jgg-studio
+          winner: true
+        - artist: Claire Chase, Alex Peh, Susie Ibarra
+          title: 'Susie Ibarra: Talking Gong'
+          url: https://newfocusrecordings.bandcamp.com/album/susie-ibarra-talking-gong
+        - artist: Kassa Overall
+          title: Shades of Flu 2
+          url: https://kassaoverall.bandcamp.com/album/shades-of-flu-2-2
+        - artist: Mathieu Fiset
+          title: 'One More !!?!??'
+          url: https://mathieufiset.bandcamp.com/album/one-more
+        - artist: Pierce Murphy
+          title: Through The Olive Branches
+          url: https://piercemurphy.bandcamp.com/album/through-the-olive-branches
+    - name: Best Jazz Track
+      nominees:
+        - artist: Brazzmatazz
+          title: Walk the Plank (Live)
+          type: track
+          url: https://brazzmatazz.bandcamp.com/track/walk-the-plank-live
+          winner: true
+        - artist: Mathieu Fiset
+          title: Cantaloupe Island
+          type: track
+          url: https://mathieufiset.bandcamp.com/track/cantaloupe-island
+        - artist: Pierce Murphy
+          title: Among the Stars
+          type: track
+          url: https://piercemurphy.bandcamp.com/track/among-the-stars-2
+        - artist: Shota Ikeda
+          title: You Encourage Me So Well
+          type: track
+          url: https://shotaikeda.bandcamp.com/track/you-encourage-me-so-well
+        - artist: Trigg & Gussett
+          title: Pick or Pluck
+          type: track
+          url: https://triggandgusset.bandcamp.com/track/pick-or-pluck
     - name: Best Rock Album
       nominees:
-        - artist: Kamni
-          title: Mandala
-          url: https://kamni.bandcamp.com/album/mandala
+        - artist: Louis Lingg and the Bombs
+          title: '>…checking system… disruption detected…'
+          url: https://blocsonic.com/releases/louis-lingg-and-the-bombs/checking-system-disruption-detected
           winner: true
-        - artist: Jeff Rosenstock
-          title: No Dream
-          url: https://jeffrosenstock.bandcamp.com/album/no-dream
-        - artist: erotech
-          title: TOLTEC
-          url: https://eroctech.bandcamp.com/album/toltec
-        - artist: Against the Tide
-          title: Against the Tide EP
-          url: https://againstthetide.bandcamp.com/album/against-the-tide-ep
-        - artist: Feral Light
-          title: Life Vapor
-          url: https://hypnoticdirgerecords.bandcamp.com/album/life-vapor
+        - artist: Spread Joy
+          title: Spread Joy
+          url: https://spreadjoy.bandcamp.com/album/spread-joy
+        - artist: Black Dresses
+          title: Forever In Your Heart
+          url: https://blackdresses.bandcamp.com/album/forever-in-your-heart
+        - artist: Knees Please
+          title: It Was Lies to Meet You
+          url: https://kneesplease.bandcamp.com/album/it-was-lies-to-meet-ya
+        - artist: Champion Racehorse
+          title: Awake to the Joys and Sorrows of the World
+          url: https://championracehorse.bandcamp.com/album/awake-to-the-joys-and-sorrows-of-the-world
     - name: Best Rock Track
       nominees:
-        - artist: Omination
-          title: The Pale Horseman
-          url: https://hypnoticdirgerecords.bandcamp.com/album/the-pale-horseman
+        - artist: Lorenzo’s Music
+          title: I Can Only Miss You
           type: track
+          url: https://lorenzosmusic.bandcamp.com/track/i-can-only-miss-you
           winner: true
-        - artist: Jeff Rosenstock
-          title: Scram!
-          url: https://jeffrosenstock.bandcamp.com/track/scram
+        - artist: Louis Lingg and the Bombs
+          title: Freaky Deaky
           type: track
-        - artist: Dead Relic
-          title: Open Your Eyes
-          url: https://www.jamendo.com/track/1802718/open-your-eyes
+          url: https://blocsonic.com/releases/track/bs450066-disc-1-louis-lingg-and-the-bombs-freaky-deaky
+        - artist: Siberians
+          title: Vidas
           type: track
-        - artist: Bleach Birth
-          title: Penultimate Song to Skip
-          url: https://bleachbirth.bandcamp.com/track/penultimate-song-to-skip
+          url: https://siberians.bandcamp.com/track/vidas
+        - artist: Nicholas Burgess
+          title: I Wrote Crystal Crystmas Sky for You Crystalline
           type: track
-        - artist: The Best of the Worst
-          title: "Spoiler Alert:"
-          url: https://thebestoftheworst.bandcamp.com/track/spoiler-alert-2
+          url: https://nicholasburgess.bandcamp.com/track/i-wrote-crystal-crystmas-sky-for-you-crystalline
+        - artist: Shedonist
+          title: I Don’t Want You Anymore
           type: track
+          url: https://shedonist.bandcamp.com/track/i-dont-want-you-anymore
+    - name: Best Metal Album
+      nominees:
+        - artist: Moonworshipper
+          title: 13 Fullmoon Nights of Doubt
+          url: https://hypnoticdirgerecords.bandcamp.com/album/13-fullmoon-nights-of-doubt
+          winner: true
+        - artist: Abstract Void
+          title: Wishdream
+          url: https://abstractvoid.bandcamp.com/album/wishdream
+        - artist: Nordicwinter
+          title: Sorrow
+          url: https://hypnoticdirgerecords.bandcamp.com/album/sorrow
+        - artist: Plastic Woods
+          title: Dragonfruit
+          url: https://discosmacarras.bandcamp.com/album/dragonfruit
+        - artist: Real Loud
+          title: Real Loud
+          url: https://newfocusrecordings.bandcamp.com/album/real-loud
+    - name: Best Metal Track
+      nominees:
+        - artist: Omination
+          title: Post-Apocalypticism
+          type: track
+          url: https://hypnoticdirgerecords.bandcamp.com/track/post-apocalypticism
+          winner: true
+        - artist: Beastmaker
+          title: Night of the Devil
+          type: track
+          url: https://beastmaker.bandcamp.com/track/night-of-the-devil
+        - artist: Ewig Frost
+          title: 1918
+          type: track
+          url: https://discosmacarras.bandcamp.com/track/1918
+        - artist: LupoSapien
+          title: Ketracel White (Lay Waste)
+          type: track
+          url: https://luposapien.bandcamp.com/track/ketracel-white-lay-waste-2
+        - artist: Plastic Woods
+          title: The Calling
+          type: track
+          url: https://discosmacarras.bandcamp.com/track/the-calling
     - name: Best Music Video
       nominees:
-        - artist: Ilienses
-          title: Civitates Barbariae
-          url: https://ilienses.bandcamp.com
-          embedUrl: https://www.youtube.com/embed/sko9ERYvkgA
+        - artist: Louis Lingg and the Bombs
+          title: Freaky Deaky
           type: video
+          url: https://blocsonic.com/releases/louis-lingg-and-the-bombs/checking-system-disruption-detected
+          embedUrl: https://www.youtube.com/embed/2KQBslVjflk
           winner: true
-        - artist: Maeskyyrn
-          title: Of Forests and Troubled Pasts
-          url: https://hypnoticdirgerecords.bandcamp.com/album/interlude
-          embedUrl: https://www.youtube.com/embed/VdB936oy97w
+        - artist: Moonworshipers
+          title: 13 Fullmoon Nights of Doubt
           type: video
-        - artist: Frigoris
-          title: Scheideweg
-          url: https://hypnoticdirgerecords.bandcamp.com/album/in-stille
-          embedUrl: https://www.youtube.com/embed/Ed5H-6g_JYU
+          url: https://hypnoticdirgerecords.bandcamp.com/album/13-fullmoon-nights-of-doubt
+          embedUrl: https://www.youtube.com/embed/uO-R2whe2QU
+        - artist: 'Pátí na světě'
+          title: The Tunnel
           type: video
-        - artist: Black Dresses
-          title: CREEP U
-          url: https://blackdresses.bandcamp.com
-          embedUrl: https://www.youtube.com/embed/w9RSZmltcVI
+          url: https://poli5.bandcamp.com/album/jupiter-carousel
+          embedUrl: https://www.youtube.com/embed/k1kpG99C9I0
+        - artist: Senyawa
+          title: Kiamat
           type: video
-        - artist: Townhouse Woods
-          title: Name
-          url: https://townhousewoods.bandcamp.com
-          embedUrl: https://www.youtube.com/embed/Z7RKe_Zxkbc
+          url: https://senyawa-bam.bandcamp.com/album/alkisah
+          embedUrl: https://www.youtube.com/embed/7DRiIAVafbo
+        - artist: Spread Joy
+          title: St. Tropez/Semantics
           type: video
+          url: https://spreadjoy.bandcamp.com/album/spread-joy
+          embedUrl: https://www.youtube.com/embed/ekfJelhN69U
     - name: Best Album Packaging
       nominees:
-        - artist: Jeff Rosenstock
-          title: No Dream
-          url: https://jeffrosenstock.bandcamp.com/album/no-dream
+        - artist: Marisa Anderson/William Tyler
+          title: Lost Futures (CD/LP)
+          url: https://marisaanderson.bandcamp.com/album/lost-futures
           winner: true
-        - artist: Forlesen
-          title: Hierophant Violent
-          url: https://hypnoticdirgerecords.bandcamp.com/album/hierophant-violent
-        - artist: Jim White and Marisa Anderson
-          title: The Quickening
-          url: https://marisaanderson.bandcamp.com/album/the-quickening
-        - artist: Bob Reynolds
-          title: Runway
-          url: https://bobreynolds.bandcamp.com/album/runway
-        - artist: VoidDweller
-          title: "▒"
-          url: https://voiddweller000.bandcamp.com/album/--2
+        - artist: Bound Unto Root
+          title: Sufferer's Skin (Cassette)
+          url: https://bounduntoroot.bandcamp.com/album/sufferers-skin
+        - artist: Glassing (Cassette/LP)
+          title: Twin Dream
+          url: https://glassing.bandcamp.com/album/twin-dream
+        - artist: Visions Of War & Arrogänt
+          title: Visions Of War / Arrogänt split (LP)
+          url: https://phobiarecords.bandcamp.com/album/visions-of-war-arrog-nt-split-lp
+        - artist: Wheelchair Sports Camp
+          title: Alice In Wonderland (Cassette/LP)
+          url: https://wheelchairsportscamp.bandcamp.com/album/alice-in-wonderland-original-theatre-soundtrack
     - name: Africa
       regional: true
-      nominees: 
-        - artist: Monday Morning Justice
-          url: https://we-did-this-records.bandcamp.com/album/the-ol-reacharound
+      nominees:
+        - artist: Double-F the King
           type: region
+          url: https://freemusicarchive.org/music/double-f-the-king/king/fmh
           winner: true
-        - artist: Aragorn23
-          url: https://asqus.bandcamp.com/album/selected-modular-atmospheres-vol-2
+        - artist: Omination
           type: region
-        - artist: Mouse
-          url: https://mouse.bandcamp.com
+          url: https://omination.bandcamp.com/album/ngr-2
+        - artist: Fake-bit PoZeurs
           type: region
-        - artist: "DEMOKHRATIA ديمخراطية"
-          url: https://awd-tapes.bandcamp.com/album/no-religions-no-states
+          url: https://we-did-this-records.bandcamp.com/album/stuck
+        - artist: Tricks & Traps
           type: region
-        - artist: ZNOUS زنوس
-          url: https://awd-tapes.bandcamp.com/album/znousland-2
+          url: https://trickstraps.bandcamp.com/
+        - artist: FUFU
           type: region
+          url: https://fufubandcampa.bandcamp.com/
     - name: Asia
       regional: true
       nominees:
-        - artist: Caesarius
-          url: https://caesarius.bandcamp.com
+        - artist: Moki McFly
           type: region
+          url: https://blocsonic.com/releases/moki-mcfly/grey
           winner: true
-        - artist: Jars
-          url: https://jars.bandcamp.com
+        - artist: Viktor Van River
           type: region
-        - artist: Zarnica
-          url: https://zarnica.bandcamp.com
+          url: https://blocsonic.com/releases/viktor-van-river/weapon-of-mass-distraction
+        - artist: Senyawa
           type: region
-        - artist: Cybered
-          url: https://manifoldstudio.bandcamp.com
+          url: https://senyawa-bam.bandcamp.com/album/alkisah
+        - artist: Wings of an Angel
           type: region
-        - artist: Vortex Mechanic
-          url: https://bc.unitedstudios.ru/album/adaptive-lives
+          url: https://wingsofanangel.bandcamp.com/album/remembrance-is-lost-without-tomorrow
+        - artist: KLSHNKV
           type: region
-        - artist: Logic Beach
-          url: https://logicbeach.bandcamp.com
-          type: region
+          url: https://blocsonic.com/releases/klshnkv/wall-of-sound
     - name: Canada
       regional: true
       nominees:
-        - artist: Black Dresses
-          url: https://blackdresses.bandcamp.com
+        - artist: Home Front
           type: region
+          url: https://lavidaesunmus.bandcamp.com/album/think-of-the-lie
           winner: true
-        - artist: The Bachelors of Music
-          url: https://thebachelorsofmusic.bandcamp.com
+        - artist: Glass Apple Banzai
           type: region
-        - artist: Against The Tide
-          url: https://againstthetide.bandcamp.com
+          url: https://glassapplebonzai.bandcamp.com/album/late-nite-menu
+        - artist: Irwin DeVries
           type: region
-        - artist: SEAMUS
-          url: https://newfocusrecordings.bandcamp.com/album/music-from-seamus-vol-3
+          url: https://irwindevries.bandcamp.com/album/106-lines-of-thought
+        - artist: Karma Skeleton
           type: region
-        - artist: Heart Structure Quartet
-          url: https://vacancyniagara.bandcamp.com/album/live-at-tone-deaf-2019-vac-036
+          url: https://karmaskeleton.bandcamp.com/album/cosmic-remnants
+        - artist: Jaspertine
           type: region
+          url: https://jaspertine.bandcamp.com/album/get-stillness
+    - name: Central America, Mexico, and Caribbean
+      regional: true
+      nominees:
+        - artist: George Silver
+          type: region
+          url: https://panama-papers.bandcamp.com/track/vudu-drummer-tonys-electrobeat
+          winner: true
+        - artist: Loud, Slow, and Distorted Riffs
+          type: region
+          url: https://lsdr.bandcamp.com/track/ayahuasca-3
+        - artist: Wago
+          type: region
+          url: https://wago1.bandcamp.com/track/amaryllis-sol-invictus-mmxxi
+        - artist: LIFE2979光 & d10xn
+          type: region
+          url: https://life2979.bandcamp.com/album/pursuit-d10xn-remix
+        - artist: Jug Bundish
+          type: region
+          url: https://jugbundish.bandcamp.com/track/des-rtico
     - name: Europe
       regional: true
       nominees:
-        - artist: Marie W Anders
-          url: https://www.broque.de/label/en/release/mp3-download-en/4419-129-marie-wilhelmine-anders-andersworld-2
+        - artist: Pátí na světě
           type: region
+          url: https://poli5.bandcamp.com/album/jupiter-carousel
           winner: true
-        - artist: pablosánchez
-          url: https://pablosanchezmusica.bandcamp.com
+        - artist: Otepsia
           type: region
-        - artist: Auto-Pilot
-          url: https://www.broque.de/label/en/release/mp3-download-en/4567-132-auto-pilot-freak-electric-2
+          url: http://www.nowaki-music.org/index.php?L=1#catalogue
+        - artist: Gino Niemix
           type: region
-        - artist: Massimo Ruberti
-          url: https://www.nostressnetlabel.net/NN_Comp009_03_20.html
+          url: http://www.nowaki-music.org/index.php?L=1#catalogue
+        - artist: Roman Walczak
           type: region
-        - artist: Traulers
-          url: http://defil5.bonimedia.pl
+          url: http://defil6.bonimedia.pl/
+        - artist: Koty
           type: region
-    - name: Great Lakes (US)
+          url: http://defil6.bonimedia.pl/
+    - name: Russia
       regional: true
       nominees:
-        - artist: Vietnam II
-          url: https://blocsonic.com/artist/vietnam-ii
+        - artist: Sonnov
           type: region
+          url: https://sonnovdrone.bandcamp.com/album/ochogooq
           winner: true
-        - artist: Rent Strike
-          url: https://rentstrike.bandcamp.com
+        - artist: Csum
           type: region
-        - artist: Fennec
-          url: https://fennecfennec.com
+          url: https://csum.bandcamp.com/album/sonoschematics
+        - artist: Dismöral
           type: region
-        - artist: Cedar Skies
-          url: https://cedarskies.bandcamp.com
+          url: https://dismoral.bandcamp.com/album/useless-noise
+        - artist: Ebalo Red
           type: region
-        - artist: Curta
-          url: https://curta.bandcamp.com
+          url: https://nenrecs.bandcamp.com/track/mimick-edit
+        - artist: nightblure
           type: region
-    - name: Mexico, Central America, and the Caribbean (minus Puerto Rico)
-      regional: true
-      nominees:
-        - artist: Marcela Membreño
-          url: https://ccecr.bandcamp.com/album/la-movida-can-bal-26
-          type: region
-          winner: true
-        - artist: Orquidea
-          url: https://orquideacr.bandcamp.com
-          type: region
-        - artist: Bufi
-          url: https://bufirolas.bandcamp.com
-          type: region
-        - artist: San Venganza
-          url: https://sanvenganza.bandcamp.com
-          type: region
-        - artist: Habak
-          url: https://habak.bandcamp.com
-          type: region
-    - name: Mid-Atlantic (US)
-      regional: true
-      nominees:
-        - artist: Das Mister
-          url: https://blocsonic.com/artist/das-mister
-          type: region
-          winner: true
-        - artist: The Crossing
-          url: https://newfocusrecordings.bandcamp.com/album/rising-w-the-crossing
-          type: region
-        - artist: Scarsic
-          url: https://coretothecore.bandcamp.com/album/a-tale-of-two-worlds
-          type: region
-        - artist: The Soft Pink Truth
-          url: https://thesoftpinktruth.bandcamp.com
-          type: region
-        - artist: Ning Yu
-          url: https://newfocusrecordings.bandcamp.com/album/of-being
-          type: region
-    - name: Midwest (US)
-      regional: true
-      nominees:
-        - artist: Lorenzo’s Music
-          url: https://www.lorenzosmusic.com
-          type: region
-          winner: true
-        - artist: VoidDweller
-          url: https://voiddweller000.bandcamp.com
-          type: region
-        - artist: Frugal Stu & The Coupons
-          url: https://frugalstuandthecoupons.bandcamp.com
-          type: region
-        - artist: Townhouse Woods
-          url: https://townhousewoods.bandcamp.com
-          type: region
-        - artist: Lords of the Trident
-          url: https://lordsofthetrident.com
-          type: region
-    - name: Northwest (US)
-      regional: true
-      nominees:
-        - artist: Amie Waters
-          url: https://amiewaters.bandcamp.com
-          type: region
-          winner: true
-        - artist: Marian Call
-          url: https://mariancall.bandcamp.com
-          type: region
-        - artist: Jim White and Marisa Anderson
-          url: https://marisaanderson.bandcamp.com/album/the-quickening
-          type: region
-        - artist: Arrington de Dyoniso
-          url: https://arrington.bandcamp.com
-          type: region
-        - artist: Pixel Archipelago
-          url: https://pixelarchipelago.bandcamp.com
-          type: region
-    - name: NYC (US)
-      regional: true
-      nominees:
-        - artist: Headsnack
-          url: https://www.headsnack.com
-          type: region
-          winner: true
-        - artist: Wowflower
-          url: https://wowflower.bandcamp.com
-          type: region
-        - artist: Pulcinella
-          url: https://pulcinella.bandcamp.com
-          type: region
-        - artist: Buscabulla
-          url: https://buscabulla.bandcamp.com
-          type: region
-        - artist: Claire Donato
-          url: https://clairedonato.bandcamp.com
-          type: region
+          url: https://nightblure.bandcamp.com/track/righteous
     - name: Oceania
       regional: true
       nominees:
-        - artist: Repairs
-          url: https://repairstheband.bandcamp.com
+        - artist: Champion Racehorse
           type: region
+          url: https://championracehorse.bandcamp.com/album/awake-to-the-joys-and-sorrows-of-the-world
           winner: true
-        - artist: Eggy
-          url: https://eggyband.bandcamp.com
+        - artist: Shota Ikeda
           type: region
-        - artist: Hearts and Rockets
-          url: https://heartsandrockets.bandcamp.com
+          url: https://shotaikeda.bandcamp.com/album/you-encourage-me-so-well
+        - artist: Reptant
           type: region
-        - artist: Centre Negative
-          url: https://centrenegative.bandcamp.com
+          url: https://lkrrecords.bandcamp.com/album/return-to-planet-xtrapolis
+        - artist: Heavyviper
           type: region
-        - artist: Skink Tank
-          url: https://skinktank.bandcamp.com
+          url: https://heavyviper.bandcamp.com/album/every-days-into-dreams-viperdaily2020-project
+        - artist: Bfffth
           type: region
-    - name: South (US)
-      regional: true
-      nominees:
-        - artist: Secondhand Street Band
-          url: https://secondhandstreetband.bandcamp.com
-          type: region
-          winner: true
-        - artist: Andrew Bryant
-          url: https://andrewbryant.bandcamp.com
-          type: region
-        - artist: Marvin Valentin
-          url: https://marvinvalentin.bandcamp.com
-          type: region
-        - artist: Mousy Magazine
-          url: https://mousymagazine.bandcamp.com
-          type: region
-        - artist: Carise Blanton
-          url: https://store.carsieblanton.com
-          type: region
+          url: https://bfffth.bandcamp.com/album/q
     - name: South America
       regional: true
       nominees:
-        - artist: Psicotronicos
-          url: https://www.jamendo.com/artist/477113/psicotronicos
+        - artist: Chamanes del Fuego
           type: region
+          url: https://chamanesdelfuego.bandcamp.com/album/chamanes-del-fuego
           winner: true
+        - artist: Paul Jove
+          type: region
+          url: https://pauljove.bandcamp.com/album/colourful-spectrals
+        - artist: Capelú
+          type: region
+          url: https://capelumusic.bandcamp.com/album/capsula
         - artist: Hippo
-          url: https://hippothevirtue.bandcamp.com
           type: region
-        - artist: Acto de Odio
-          url: https://actodeodio.bandcamp.com
+          url: https://hippothevirtue.bandcamp.com/album/versace
+        - artist: Tibone
           type: region
-        - artist: Las Liebres
-          url: https://lasliebres.bandcamp.com
-          type: region
-        - artist: AjaxFree
-          url: https://antenaartbr.bandcamp.com
-          type: region
-    - name: Southeast (US)
+          url: https://tibone.bandcamp.com/album/sunset-stradale
+    - name: US Midwest
       regional: true
       nominees:
-        - artist: Fane
-          url: https://fane33.bandcamp.com
+        - artist: MVMX
           type: region
+          url: https://blocsonic.com/releases/mvmx/take-me-down
           winner: true
-        - artist: Clifton Hicks
-          url: https://cliftonhicks.bandcamp.com
+        - artist: Air Credits
           type: region
-        - artist: Bleach Birth
-          url: https://bleachbirth.bandcamp.com
+          url: https://aircredits.bandcamp.com/album/believe-that-youre-here
+        - artist: Why Not
           type: region
-        - artist: Peter Trode
-          url: https://petertrode.bandcamp.com
+          url: https://whynotbandofficial.bandcamp.com/track/flight-home
+        - artist: VoidDweller
           type: region
-        - artist: Xejjah Orseth
-          url: https://xejjahorseth.bandcamp.com
+          url: https://voiddweller000.bandcamp.com/album/employee
+        - artist: LupoSapien
           type: region
-    - name: Southwest (US)
+          url: https://luposapien.bandcamp.com/
+    - name: US Mountain
       regional: true
       nominees:
-        - artist: A23P
-          url: https://acida23p.bandcamp.com
-          type: region
-          winner: true
-        - artist: Somatoast
-          url: https://somatoast.bandcamp.com
-          type: region
-        - artist: Scott Lawlor
-          url: https://scottlawlor.bandcamp.com
-          type: region
-        - artist: Rumble Young Man Rumble
-          url: https://rymr.bandcamp.com
-          type: region
         - artist: Wheelchair Sports Camp
-          url: https://wheelchairsportscamp.bandcamp.com
           type: region
-    - name: West (US)
+          url: https://wheelchairsportscamp.bandcamp.com/
+          winner: true
+        - artist: Delmak-o
+          type: region
+          url: https://delmak-o.bandcamp.com/album/the-colony
+        - artist: C. Reider
+          type: region
+          url: https://c-reider.bandcamp.com/album/kiki
+        - artist: Amarionette
+          type: region
+          url: https://amarionette.bandcamp.com/track/get-back
+        - artist: Asters
+          type: region
+          url: https://asters.bandcamp.com/
+    - name: US Northeast
       regional: true
       nominees:
-        - artist: Monk Turner
-          url: http://www.monkturner.com
+        - artist: Mute City
           type: region
+          url: https://mute-city.bandcamp.com/album/post-glacial
           winner: true
-        - artist: Verlust
-          url: https://verlust.bandcamp.com
+        - artist: Humble
           type: region
-        - artist: John Vanderslice
-          url: https://johnvanderslice.bandcamp.com
+          url: https://mchumble.bandcamp.com/album/electromagnetism
+        - artist: Crystal Canyon
           type: region
-        - artist: People With Bodies
-          url: http://peoplewithbodies.football
+          url: https://crystalcanyon.bandcamp.com/track/haunt-you
+        - artist: Solilians
           type: region
-        - artist: Juicebumps
-          url: https://juicebumpsonline.com
+          url: https://iheartnoise.bandcamp.com/album/in-the-running-2-solilians-american-klezmische
+        - artist: The Boston Typewriter Orchestra
           type: region
+          url: https://bostontypewriterorchestra.bandcamp.com/album/delegation-the-remixes
+    - name: US Pacific
+      regional: true
+      nominees:
+        - artist: Esoteric Sound Design
+          type: region
+          url: https://esotericsounddesign.bandcamp.com/album/discovery
+          winner: true
+        - artist: Robb Benson
+          type: region
+          url: https://robbbenson.bandcamp.com/album/dont-be-a-stranger-single
+        - artist: viridian! viridian! viridian!
+          type: region
+          url: https://viridianfracture.bandcamp.com/album/astera
+        - artist: Glenn Case
+          type: region
+          url: https://glenncase.bandcamp.com/
+        - artist: Beastmaker
+          type: region
+          url: https://beastmaker.bandcamp.com/album/who-is-this-collection-of-demos
+    - name: US Southeast
+      regional: true
+      nominees:
+        - artist: Timezone Lafontaine
+          type: region
+          url: https://blocsonic.com/releases/timezone-lafontaine/beatseekers
+          winner: true
+        - artist: Andrew Bryant
+          type: region
+          url: https://andrewbryant.bandcamp.com/album/a-meaningful-connection
+        - artist: Matt Burke
+          type: region
+          url: https://mattburkemusic.bandcamp.com/
+        - artist: Jason Ringenberg
+          type: region
+          url: https://folcrecords.bandcamp.com/album/folc150-jason-ringenberg-rhinestoned
+        - artist: Clifton Hicks
+          type: region
+          url: https://cliftonhicks.bandcamp.com/album/old-leatherstocking
+    - name: US Southwest
+      regional: true
+      nominees:
+        - artist: Scott Lawlor
+          type: region
+          url: https://scottlawlor.bandcamp.com/album/reflections-of-snow
+          winner: true
+        - artist: Gurdonark
+          type: region
+          url: http://ccmixter.org/search?search_text=gurdonark&search_type=any&search_in=all&form_submit=Search&http_referer=http%253A%252F%252Fccmixter.org%252F&search=classname
+        - artist: Andrew Weathers
+          type: region
+          url: https://andrewweathers.bandcamp.com/album/the-land-ethic-second-summer-2021
+        - artist: PopSkyy
+          type: region
+          url: https://popskyy.bandcamp.com/
+        - artist: KloudNineMusic
+          type: region
+          url: https://kloudninemusic.bandcamp.com/album/in-the-key-of-trap-beat-tape

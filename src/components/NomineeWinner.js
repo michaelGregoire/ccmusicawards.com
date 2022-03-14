@@ -10,9 +10,9 @@ const NomineeWinner = ({ artist, title, url, ariaLabel, embedUrl = false }) => {
       <Trophy />
       <span className="winner-name">
         {title !== false ? (
-          <strong>{artist}</strong>
-        ) : (
           <Identification artist={artist} title={title} />
+        ) : (
+          <strong>{artist}</strong>
         )}
         <ExternalLink url={url} ariaLabel={ariaLabel} />
       </span>

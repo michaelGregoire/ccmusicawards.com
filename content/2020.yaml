@@ -4,7 +4,7 @@ meta:
   heading: 2020 Nominees & Winners
   description: The third annual CC Community Music Awards
   image: ccmusicawards-fb-share-2020.png
-  type: previous
+  type: archive
 content:
   categories:
     - name: Best Hip-Hop Album
@@ -269,7 +269,7 @@ content:
           title: The End is Ok
           url: https://zachhench.bandcamp.com/album/the-end-is-ok
         - artist: Curta
-          title: "[sic]"
+          title: '[sic]'
           url: https://curta.bandcamp.com/album/sic-2
     - name: Best Experimental Track
       nominees:
@@ -340,70 +340,70 @@ content:
           url: http://www.iamthewarhorse.com
           embedUrl: https://www.youtube.com/embed/fi4I1JiXADQ
           type: video
-    - name: "United States: Great Lakes"
+    - name: 'United States: Great Lakes'
       regional: true
       nominees:
         - artist: Treysuno
           url: https://treysuno.bandcamp.com
           type: region
           winner: true
-    - name: "United States: Mid-Atlantic"
+    - name: 'United States: Mid-Atlantic'
       regional: true
       nominees:
         - artist: C-Doc
           url: https://blocsonic.com/artist/c-doc
           type: region
           winner: true
-    - name: "United States: Midwest"
+    - name: 'United States: Midwest'
       regional: true
       nominees:
         - artist: Cullah
           url: https://cullah.bandcamp.com
           type: region
           winner: true
-    - name: "United States: New York City"
+    - name: 'United States: New York City'
       regional: true
       nominees:
         - artist: Jonathan Coulton
           url: https://jonathancoulton.bandcamp.com
           type: region
           winner: true
-    - name: "United States: Northeast"
+    - name: 'United States: Northeast'
       regional: true
       nominees:
         - artist: Nicholas Burgess
           url: https://nicholasburgess.bandcamp.com
           type: region
           winner: true
-    - name: "United States: Northwest"
+    - name: 'United States: Northwest'
       regional: true
       nominees:
         - artist: David Rovics
           url: https://davidrovics.bandcamp.com
           type: region
           winner: true
-    - name: "United States: South"
+    - name: 'United States: South'
       regional: true
       nominees:
         - artist: Aviators
           url: https://soundoftheaviators.bandcamp.com
           type: region
           winner: true
-    - name: "United States: Southeast"
+    - name: 'United States: Southeast'
       regional: true
       nominees:
         - artist: Empire Strikes Brass
           url: https://empirestrikesbrass.bandcamp.com
           type: region
           winner: true
-    - name: "United States: Southwest"
+    - name: 'United States: Southwest'
       regional: true
       nominees:
         - artist: Glassing
           url: https://glassing.bandcamp.com
           type: region
           winner: true
-    - name: "United States: West"
+    - name: 'United States: West'
       regional: true
       nominees:
         - artist: Hench
@@ -445,4 +445,3 @@ content:
           url: https://baikalnomads.bandcamp.com
           type: region
           winner: true
-

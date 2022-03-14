@@ -137,7 +137,7 @@ content:
           url: https://blocsonic.com/releases/cheese-n-pot-c/muldoonsday-device
           winner: true
         - artist: VoidDweller
-          title: "▒"
+          title: '▒'
           url: https://voiddweller000.bandcamp.com/album/--2
         - artist: BADLUCK
           title: Pharaohs & Gods II
@@ -201,7 +201,7 @@ content:
           url: https://hoddinott.bandcamp.com/track/sioux-city-2
           type: track
         - artist: Endangered Quartet
-          title: "Johann Sebastian Bach: Chorale BWV 244​/​44"
+          title: 'Johann Sebastian Bach: Chorale BWV 244​/​44'
           url: https://newfocusrecordings.bandcamp.com/track/johann-sebastian-bach-chorale-bwv-244-44
           type: track
         - artist: Bob Reynolds
@@ -291,7 +291,7 @@ content:
           url: https://bleachbirth.bandcamp.com/track/penultimate-song-to-skip
           type: track
         - artist: The Best of the Worst
-          title: "Spoiler Alert:"
+          title: 'Spoiler Alert:'
           url: https://thebestoftheworst.bandcamp.com/track/spoiler-alert-2
           type: track
     - name: Best Music Video
@@ -353,7 +353,7 @@ content:
         - artist: Mouse
           url: https://mouse.bandcamp.com
           type: region
-        - artist: "DEMOKHRATIA ديمخراطية"
+        - artist: 'DEMOKHRATIA ديمخراطية'
           url: https://awd-tapes.bandcamp.com/album/no-religions-no-states
           type: region
         - artist: ZNOUS زنوس
