@@ -78,7 +78,7 @@ content:
           url: https://n0thanky0u.bandcamp.com/track/with-open-arms-in-disbelief
           type: track
         - artist: ChXnSxCh
-          title: 'Desiccant Silicagel [DANGEROUS: DO NOT EAT]'
+          title: "Desiccant Silicagel [DANGEROUS: DO NOT EAT]"
           url: https://thejjc.bandcamp.com/track/desiccant-silicagel-dangerous-do-not-eat
           type: track
         - artist: The OO-Ray
@@ -338,11 +338,11 @@ content:
           title: Runway
           url: https://bobreynolds.bandcamp.com/album/runway
         - artist: VoidDweller
-          title: '▒'
+          title: "▒"
           url: https://voiddweller000.bandcamp.com/album/--2
     - name: Africa
       regional: true
-      nominees:
+      nominees: 
         - artist: Monday Morning Justice
           url: https://we-did-this-records.bandcamp.com/album/the-ol-reacharound
           type: region
