@@ -10,6 +10,10 @@ content:
 
     <h3>Nick Burgess</h3>
 
+    <h3>Donnie Ozone</h3>
+    <p><img src="/img/donnie-ozone.jpg" class="judge" /></p>
+    <p class="left max">I am a Creative Commons friendly hip hop artist who resides in Brooklyn, NY. I started uploading my vocal recordings under Creative Commons licenses to various websites in 2012. Since then, my vocals have been featured in productions in various genres from hip hop to electronic dance music. I release CC licensed tracks via the blocSonic netlabel and I contribute a track to Netlabel Day every year. I am the CC CMA judge for the Oceania region.</p>
+
     <h3>Fhernando</h3>
 
     <h3>Anthony Gillison (Ant The Symbol)</h3>
@@ -35,11 +39,12 @@ content:
       <p>As well as the experimental Trip-Hop and Acid Jazz group, Sirhc Neila.</p>
     </div>
 
-    <h3>Robert Nunnally</h3>
+    <h3>Long John</h3>
+    <p class="left max">
+      Long John is the heart of the P.U.C.K. (Previously Unknown Canadian Kids) cru. The vegan whale meat in a Cheese N Pot-C sandwich. He’s been rockin’ mics since way back in the early 90's when How Now Lau (aka Pot-C), dragged him out of his skid row cubby hole in East Vancouver, British Columbia, Canada. Pot-C didn’t even give him time to cover up with a blanket or even some rope belt sweat pants. He spit rhymes in his longjohns and was henceforth known as Long John. Originally from Campbell River on Vancouver Island, Long John made the perilous journey to Vancouver only to find himself living in the ground zero of Canadian despair. After being whiskyed away into the hip-hop bubble How Now Lau & DJ Murtle (aka Cheese) were creating, the trio eventually became known as the P.U.C.K. cru in August 1995. Countless 4-track tape recordings, studio sessions, cult status live shows and tours, interweb collabos and brushes with celebrity fire later, Long John continues with the cru into the ever expanding universe of Creative Commons music. From releasing music on CC music champion, the blocSonic / blocGLOBAL netlabel, to joining Pot-C for the CC Community Listening Parties and these Awards, Long John’s punk / metal / hip-hop knowledge is sure to add another dimension to the community, if not another drinking buddy.
+    </p>
 
-    <h3>Donnie Ozone</h3>
-    <p><img src="/img/donnie-ozone.jpg" class="judge" /></p>
-    <p class="left max">I am a Creative Commons friendly hip hop artist who resides in Brooklyn, NY. I started uploading my vocal recordings under Creative Commons licenses to various websites in 2012. Since then, my vocals have been featured in productions in various genres from hip hop to electronic dance music. I release CC licensed tracks via the blocSonic netlabel and I contribute a track to Netlabel Day every year. I am the CC CMA judge for the Oceania region.</p>
+    <h3>Robert Nunnally</h3>
 
     <h3>Pot-C</h3>
     <p><img src="/img/pot-c.jpg" class="judge" /></p>
