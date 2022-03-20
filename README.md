@@ -6,7 +6,7 @@ A simple YAML/React based static site generator. Each YAML file in the `content`
 
 ## Requirements
 - Git (https://git-scm.com)
-- Node: Make sure you’ve installed the version of node indicated in the .nvmrc. You’re better off installing **nvm** (https://github.com/nvm-sh/nvm), so you can easily switch to the specific version of node needed and this project doesn’t lock you into the version needed for it. Once you’ve installed it, you’re ready to follow the instructions below.*
+- Node: Make sure you’ve installed the version of node indicated in the .nvmrc. You’re better off installing **nvm** (https://github.com/nvm-sh/nvm), so you can easily switch to the specific version of node needed and this project doesn’t lock you into the version needed for it. Once you’ve installed it, you’re ready to follow the instructions below. Installing nvm via brew is no longer supported (if you don't know what this means, don't worry about it).* 
 
 _*This assumes you’re familiar with and comfortable using the command-line. If you’re not, then let someone who is complete the required work._
 ## Building / Development

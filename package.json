@@ -21,32 +21,32 @@
     "validate"
   ],
   "dependencies": {
-    "@babel/cli": "^7.13.16",
-    "@babel/core": "^7.14.0",
-    "@babel/preset-env": "^7.14.1",
-    "@babel/preset-react": "^7.13.13",
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.5",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/preset-react": "^7.16.7",
     "@researchgate/babel-plugin-transform-scss-import-to-string": "^1.0.0",
-    "babel-loader": "^8.2.2",
-    "concurrently": "^6.1.0",
-    "fs-extra": "^10.0.0",
+    "babel-loader": "^8.2.3",
+    "concurrently": "^6.5.1",
+    "fs-extra": "^10.0.1",
     "jquery": "^3.6.0",
-    "munge": "^1.0.0",
+    "munge": "^1.1.0",
     "node-sass": "^5.0.0",
     "parcel-bundler": "^1.12.5",
     "path-browserify": "^1.0.1",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "rimraf": "^3.0.2",
-    "styled-jsx": "^3.4.4",
+    "styled-jsx": "^3.4.7",
     "styled-jsx-plugin-postcss": "^4.0.1",
     "styled-jsx-plugin-sass": "^1.0.0",
     "yamljs": "^0.3.0"
   },
   "devDependencies": {
     "live-server": "^1.2.1",
-    "nodemon": "^2.0.7",
+    "nodemon": "^2.0.15",
     "pre-commit": "^1.2.2",
-    "prettier": "^2.2.1",
-    "standard-version": "^9.3.0"
+    "prettier": "^2.5.1",
+    "standard-version": "^9.3.2"
   }
 }
