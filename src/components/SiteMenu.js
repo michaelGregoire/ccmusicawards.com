@@ -15,6 +15,9 @@ const SiteMenu = () => {
       <li>
         <a href="/archive.html">Archive</a>
       </li>
+      <li>
+        <a href="/founder.html">Founder Notes</a>
+      </li>
     </ul>
   );
 };
