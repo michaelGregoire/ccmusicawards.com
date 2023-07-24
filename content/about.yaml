@@ -10,16 +10,16 @@ content:
     <div class="left max">
       <p>Founded in 2017, the Creative Commons Community Music Awards aim to be the Grammys of the creative commons world. They seek to distinguish preeminent musical works that incorporate copyleft licenses and veer from the traditional copyright structure. The CCCMAs set the stage for artists that choose to embrace a shared culture, something unique to the current landscape of music award programs.</p>
 
-      <p>The awards are currently juried by a collection of creative commons artists and compatriots involved in said scene. In its primary years, the CCCMAs recognized musicians via genre, but have since expanded to include region-specific talent in effort to highlight free culture across the globe.</p>
+      <p>The awards are currently juried by <a href="https://ccmusicawards.com/judges.html">a collection of creative commons artists and compatriots</a> involved in said scene. In its primary years, the CCCMAs recognized musicians via genre, but have since expanded to include region-specific talent in effort to highlight free culture across the globe.</p>
 
-      <p>Awards are bestowed annually, with nomination windows running from January 1st through December 31st of the given year.</p>
     </div>
 
     <h3>Policies</h3>
 
     <h4>Nomination Window</h4>
-
-    <p>January 1 - December 31 previous year.</p>
+    <p>Early 2018: We had dates leading up for a Netlabel Day presentation, but we quickly changed that.</p>
+    <p>2018-2023: January 1 - December 31 previous year.</p>
+    <p>2024-present: We use a 14-month overlapping calendar. This allows albums that come out in late December in particular a fair chance at the awards. For example, the 2024 awards will consinder music from November 1, 2022 through December 31, 2023.</p>
 
     <h4>Judging</h4>
 
@@ -33,7 +33,7 @@ content:
 
         <p>
           <strong>2019</strong><br />
-          All judges were allowed to vote in all genre categories. A remix section was added and judged by CC Mixter.
+          All judges were allowed to vote in all genre categories. A remix section was added and judged by <a href="https://ccmixter.org/">CC Mixter</a>.
         </p>
 
         <p>
@@ -156,3 +156,36 @@ content:
       <li>Africa</li>
       <li>Asia/Pacific</li>
     </ul>
+
+    <h5>2024</h5>
+    <p>In order to streamline the voting process and get the awards on sooner, we significantly reduced both the genre awards and the regional awards.</p>
+
+    <p><strong>Genre</strong></p>
+    <ul>
+      <li>Hip-Hop</li>
+      <li>Electronic</li>
+      <li>Rock</li>
+      <li>Pop</li>
+      <li>Jazz</li>
+      <li>Folk</li>
+      <li>Experimental</li>
+    </ul>
+
+    <ul>
+      <li>Album Packaging</li>
+      <li>Music Video</li>
+    </ul>
+
+    <p><strong>Continental</strong></p>
+    <ul>
+      <li>USA and Canada</li>
+      <li>Latin America and Caribbean</li>
+      <li>Western Europe</li>
+      <li>Eastern Europe (including Russia)</li>
+      <li>Africa</li>
+      <li>Asia</li>
+      <li>Oceania</li>
+    </ul>
+    
+    <h3>CC Hall of Fame</h3>
+      <p>On the 25th Anniversary of the Creative Commons licenses, the CC CMA organization plans to launch a new endeavor, the CC Hall of Fame. As of writing, this is about 2.5 years away, but it will take a lot of time to do this right! If you would like to be involved with this new project, please email doug@blocsonic.com</p>    
