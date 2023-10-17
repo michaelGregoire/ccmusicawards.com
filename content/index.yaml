@@ -19,3 +19,16 @@ content:
           type: track
           url: https://spiedkiks.bandcamp.com/track/beached
           winner: true
+    - name: Hip Hop Album
+      nominees:
+        - artist: Spiedkiks
+          title: Mary Poppin´ Medicine
+          url: https://blocsonic.com/releases/spiedkiks/mary-poppin-medicine
+          winner: true
+    - name: Pop Track
+      nominees:
+        - artist: Spiedkiks
+          title: Beached
+          type: track
+          url: https://spiedkiks.bandcamp.com/track/beached
+          winner: true
