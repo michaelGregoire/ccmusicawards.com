@@ -1,0 +1,21 @@
+meta:
+  title: 2023 CC Community Music Awards
+  heading: 2023 Nominees & Winners
+  description: Annual CC Community Music Awards
+  ukraine: true
+content:
+  categories:
+    - name: Album of the Year
+      nominees:
+        - artist: Spiedkiks
+          title: Mary Poppin´ Medicine
+          url: https://blocsonic.com/releases/spiedkiks/mary-poppin-medicine
+          winner: true
+    - name: Track of the Year
+      nominees:
+        - artist: Spiedkiks
+          title: Beached
+          type: track
+          url: https://spiedkiks.bandcamp.com/track/beached
+          winner: true
+    - name: More winners were annouced on the weekly video show. We will get this updated when we have a chance!
