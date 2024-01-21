@@ -29,42 +29,40 @@ export default (page, file) => {
         throw new Error(`${file} — each category requires a name`);
       }
 
-      if (!category.hasOwnProperty('nominees')) {
-        throw new Error(`${file} — each category requires nominees`);
-      }
-
-      if (!(category.nominees instanceof Array)) {
-        throw new Error(`${file} — nominees needs to be an array`);
-      }
-
-      category.nominees.map(nominee => {
-        if (!nominee.hasOwnProperty('artist')) {
-          throw new Error(`${file} — each nominee needs an artist`);
+      if (category.nominees) {
+        if (!(category.nominees instanceof Array)) {
+          throw new Error(`${file} — nominees needs to be an array`);
         }
 
-        if (!nominee.hasOwnProperty('url')) {
-          throw new Error(`${file} — each nominee needs a url`);
-        }
-
-        if (
-          nominee.hasOwnProperty('type') &&
-          nominee.type === 'video' &&
-          !nominee.hasOwnProperty('embedUrl')
-        ) {
-          throw new Error(`${file} — a video nominee requires an embedUrl`);
-        }
-
-        if (
-          !nominee.hasOwnProperty('type') ||
-          (nominee.hasOwnProperty('type') && nominee.type !== 'region')
-        ) {
-          if (!nominee.hasOwnProperty('title')) {
-            throw new Error(
-              `${file} — only region nominees do not need a title`
-            );
+        category.nominees.map(nominee => {
+          if (!nominee.hasOwnProperty('artist')) {
+            throw new Error(`${file} — each nominee needs an artist`);
           }
-        }
-      });
+
+          if (!nominee.hasOwnProperty('url')) {
+            throw new Error(`${file} — each nominee needs a url`);
+          }
+
+          if (
+            nominee.hasOwnProperty('type') &&
+            nominee.type === 'video' &&
+            !nominee.hasOwnProperty('embedUrl')
+          ) {
+            throw new Error(`${file} — a video nominee requires an embedUrl`);
+          }
+
+          if (
+            !nominee.hasOwnProperty('type') ||
+            (nominee.hasOwnProperty('type') && nominee.type !== 'region')
+          ) {
+            if (!nominee.hasOwnProperty('title')) {
+              throw new Error(
+                `${file} — only region nominees do not need a title`
+              );
+            }
+          }
+        });
+      }
     });
   }
 };
