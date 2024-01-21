@@ -1,11 +1,11 @@
 import React, { Fragment } from 'react';
 import NomineeList from './NomineeList';
 
-const Category = ({ name, nominees, regional = false }) => {
+const Category = ({ name, nominees = [], regional = false }) => {
   return (
     <Fragment>
       {regional ? <h4>{name}</h4> : <h3>{name}</h3>}
-      <NomineeList nominees={nominees} />
+      {nominees.length > 0 && <NomineeList nominees={nominees} />}
     </Fragment>
   );
 };
